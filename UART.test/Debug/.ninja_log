@@ -1,0 +1,19 @@
+# ninja log v5
+6	22	6979591646234167	C:/Users/IoT07/Documents/iar/UART.test/Debug/Obj/CMSIS/startup_stm32f40_41xxx.o	cb48e91e29f5d53b
+23	233	6979591648207717	C:/Users/IoT07/Documents/iar/UART.test/Debug/Obj/STM32/stm32f4xx_it.o	6e6ad4ab1c2711f4
+1	286	6979591648832571	C:/Users/IoT07/Documents/iar/UART.test/Debug/Obj/COMM/stm32f4xx_gpio.o	c1f29e3ae0d46542
+7	313	6979591649116333	C:/Users/IoT07/Documents/iar/UART.test/Debug/Obj/STM32/system_stm32f4xx.o	d4d21b19bf8d7034
+4	362	6979591649449032	C:/Users/IoT07/Documents/iar/UART.test/Debug/Obj/COMM/stm32f4xx_rcc.o	cde29df19d8ebf48
+235	389	6979591649762110	C:/Users/IoT07/Documents/iar/UART.test/Debug/Obj/main.o	3f3e5fedc3e2bbf2
+392	459	6979591650542515	C:/Users/IoT07/Documents/iar/UART.test/Debug/Exe/UART.test.out	20dfbd589faf527a
+461	467	6979591650698728	C:/Users/IoT07/Documents/iar/UART.test/Debug/Exe/UART.test.hex	d6611c6f00abf839
+1	315	6979596727289853	C:/Users/IoT07/Documents/iar/UART.test/Debug/Obj/main.o	3f3e5fedc3e2bbf2
+7	204	6979597554885339	C:/Users/IoT07/Documents/iar/UART.test/Debug/Obj/STM32/system_stm32f4xx.o	d4d21b19bf8d7034
+1	207	6979597555041552	C:/Users/IoT07/Documents/iar/UART.test/Debug/Obj/COMM/stm32f4xx_gpio.o	c1f29e3ae0d46542
+9	239	6979597555353978	C:/Users/IoT07/Documents/iar/UART.test/Debug/Obj/STM32/stm32f4xx_usart.o	9efeb68e5d0a26d7
+5	271	6979597555666911	C:/Users/IoT07/Documents/iar/UART.test/Debug/Obj/COMM/stm32f4xx_rcc.o	cde29df19d8ebf48
+272	343	6979597556291757	C:/Users/IoT07/Documents/iar/UART.test/Debug/Exe/UART.test.out	9faa949031060b2d
+345	351	6979597556447973	C:/Users/IoT07/Documents/iar/UART.test/Debug/Exe/UART.test.hex	d6611c6f00abf839
+1	374	6979604333332855	C:/Users/IoT07/Documents/iar/UART.test/Debug/Obj/main.o	3f3e5fedc3e2bbf2
+375	450	6979604333957697	C:/Users/IoT07/Documents/iar/UART.test/Debug/Exe/UART.test.out	9faa949031060b2d
+451	460	6979604334113916	C:/Users/IoT07/Documents/iar/UART.test/Debug/Exe/UART.test.hex	d6611c6f00abf839
