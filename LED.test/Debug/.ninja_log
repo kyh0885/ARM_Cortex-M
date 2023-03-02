@@ -1,0 +1,9 @@
+# ninja log v5
+3	23	6979584788127801	C:/Users/IoT07/Documents/iar/LED.test/Debug/Obj/CMSIS/startup_stm32f40_41xxx.o	168c1b7652e5dbb9
+6	178	6979584789573215	C:/Users/IoT07/Documents/iar/LED.test/Debug/Obj/STM32/stm32f4xx_it.o	30aec414a7e4ba41
+0	269	6979584790530797	C:/Users/IoT07/Documents/iar/LED.test/Debug/Obj/COMM/stm32f4xx_gpio.o	7c756c43e9b38524
+26	317	6979584790999446	C:/Users/IoT07/Documents/iar/LED.test/Debug/Obj/STM32/system_stm32f4xx.o	3fe87dcb56679216
+179	334	6979584791155667	C:/Users/IoT07/Documents/iar/LED.test/Debug/Obj/main.o	6eb714064857a0a4
+5	365	6979584791468082	C:/Users/IoT07/Documents/iar/LED.test/Debug/Obj/COMM/stm32f4xx_rcc.o	b5b82d9a018b1ab5
+368	433	6979584792093435	C:/Users/IoT07/Documents/iar/LED.test/Debug/Exe/LED.test.out	f489b392dfb5247e
+435	441	6979584792250029	C:/Users/IoT07/Documents/iar/LED.test/Debug/Exe/LED.test.hex	ecde896f5ec8063f
