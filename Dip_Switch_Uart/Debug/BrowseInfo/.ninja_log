@@ -1,0 +1,154 @@
+# ninja log v5
+90	148	6980354300000000	C:/Users/KCCI/Documents/iar/sample/Debug/BrowseInfo/main.xcl	c3911958cf6d4a38
+188	252	6980354307402331	C:/Users/KCCI/Documents/iar/sample/Debug/BrowseInfo/sample_part1.pbi	e198f13970e8c095
+0	66	6980354300000000	C:/Users/KCCI/Documents/iar/sample/Debug/BrowseInfo/COMM/stm32f4xx_it.xcl	752d2d4649572529
+6	72	6980354300000000	C:/Users/KCCI/Documents/iar/sample/Debug/BrowseInfo/STM32/stm32f4xx_rcc.xcl	ff95459b88425dae
+3	70	6980354300000000	C:/Users/KCCI/Documents/iar/sample/Debug/BrowseInfo/STM32/stm32f4xx_gpio.xcl	45c98a54cd6c083d
+70	181	6980354306702935	C:/Users/KCCI/Documents/iar/sample/Debug/BrowseInfo/STM32/stm32f4xx_gpio.pbi	80048d10491ca7c5
+600	691	6995068340072964	C:/Users/KCCI/Documents/iar/sampleUart2_pushButton/Debug/BrowseInfo/sampleUart2_part1.pbi	194cefe0d64063c9
+68	89	6980354305807541	C:/Users/KCCI/Documents/iar/sample/Debug/BrowseInfo/COMM/stm32f4xx_it.pbi	fcd34c1c40134308
+117	144	6994230939625248	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/BrowseInfo/COMM/stm32f4xx_it.pbi	c5aba9de1be28f76
+5	102	6980354300000000	C:/Users/KCCI/Documents/iar/sample/Debug/BrowseInfo/COMM/system_stm32f4xx.xcl	2458e04b73a8300c
+72	187	6980354306806479	C:/Users/KCCI/Documents/iar/sample/Debug/BrowseInfo/STM32/stm32f4xx_rcc.pbi	dfc448f7fa14acf8
+103	210	6980354307005702	C:/Users/KCCI/Documents/iar/sample/Debug/BrowseInfo/COMM/system_stm32f4xx.pbi	e84b0cb719a6656c
+211	251	6980354307402331	C:/Users/KCCI/Documents/iar/sample/Debug/BrowseInfo/sample_part0.pbi	a2874771b0d65a5a
+257	333	6995068330000000	C:/Users/KCCI/Documents/iar/sampleUart2_pushButton/Debug/BrowseInfo/STM32/misc.xcl	152cd87904f2bb6a
+149	254	6980354307492445	C:/Users/KCCI/Documents/iar/sample/Debug/BrowseInfo/main.pbi	5edeac437b68d3c4
+254	293	6980354307806200	C:/Users/KCCI/Documents/iar/sample/Debug/BrowseInfo/sample_part2.pbi	5982ca3e82483688
+450	562	6995068338667038	C:/Users/KCCI/Documents/iar/sampleUart2_pushButton/Debug/BrowseInfo/uart2.pbi	e5fdeb050a0e5670
+293	360	6980354308505441	C:/Users/KCCI/Documents/iar/sample/Debug/BrowseInfo/sample.pbd	39ea417387012b49
+360	853	6980354313299847	C:/Users/KCCI/Documents/iar/sample/Debug/BrowseInfo/sample.pbw	5ef7241b2bb8abee
+182	258	6994252766038490	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/BrowseInfo/sampleUart2.pbd	e8f9d63419c0c349
+28	96	6994230930000000	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/BrowseInfo/COMM/system_stm32f4xx.xcl	92a97ca26e2d0b0f
+31	101	6994230930000000	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/BrowseInfo/STM32/stm32f4xx_rcc.xcl	2821b8f4e615c4dc
+8	116	6994230930000000	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/BrowseInfo/COMM/stm32f4xx_it.xcl	5b1cb63767423162
+464	546	6995068338510822	C:/Users/KCCI/Documents/iar/sampleUart2_pushButton/Debug/BrowseInfo/sampleUart2_part0.pbi	f3c52e7f11424f16
+139	251	6994246601650710	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/BrowseInfo/uart2.pbi	ad57470011849383
+33	129	6994230930000000	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/BrowseInfo/main.xcl	eb1016d19467f48a
+97	156	6994230930000000	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/BrowseInfo/STM32/stm32f4xx_gpio.xcl	78872de4135ed854
+8	143	6994246600497294	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/BrowseInfo/COMM/system_stm32f4xx.pbi	3ccb52297e5c0bba
+1	115	6994252764627512	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/BrowseInfo/main.pbi	ab6c043454fa0549
+9	102	6994247334117491	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/BrowseInfo/sampleUart2_part1.pbi	3091d375364aa1b8
+4	141	6994246600497294	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/BrowseInfo/STM32/stm32f4xx_rcc.pbi	273301f766573393
+114	177	6995110027098529	C:/Users/KCCI/Documents/iar/sampleUart2_pushButton/Debug/BrowseInfo/sampleUart2_part2.pbi	a62cbe7c79f8f514
+1	113	6995110026448487	C:/Users/KCCI/Documents/iar/sampleUart2_pushButton/Debug/BrowseInfo/main.pbi	f02852fcebd5b60e
+30	259	6995068330000000	C:/Users/KCCI/Documents/iar/sampleUart2_pushButton/Debug/BrowseInfo/STM32/stm32f4xx_gpio.xcl	128105265e43cabf
+1	134	6994246600497294	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/BrowseInfo/STM32/stm32f4xx_gpio.pbi	ab22d4824540f734
+116	181	6994252765265003	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/BrowseInfo/sampleUart2_part2.pbi	281c6b3a3e3d7a70
+66	180	6994247334912309	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/BrowseInfo/STM32/misc.pbi	d4838daf70f451b
+181	246	6994247335564779	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/BrowseInfo/sampleUart2_part0.pbi	b8b1d9f7aadcb0bf
+259	353	6995068330000000	C:/Users/KCCI/Documents/iar/sampleUart2_pushButton/Debug/BrowseInfo/main.xcl	ee20d7ea84043fda
+259	790	6994252771210351	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/BrowseInfo/sampleUart2.pbw	3e0290e3c930eca9
+1	58	6994244620000000	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/BrowseInfo/uart2.xcl	1c54ae2fcd3e2e5
+1	60	6994245880000000	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/BrowseInfo/STM32/stm32f4xx_usart.xcl	1e1bc1047967f9dd
+136	254	6994246601650710	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/BrowseInfo/STM32/stm32f4xx_usart.pbi	aa5a92f57888aed
+24	253	6995068330000000	C:/Users/KCCI/Documents/iar/sampleUart2_pushButton/Debug/BrowseInfo/COMM/system_stm32f4xx.xcl	133e29eae1df56b4
+2	64	6994247330000000	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/BrowseInfo/STM32/misc.xcl	fbfd92b3a6d3db39
+27	256	6995068330000000	C:/Users/KCCI/Documents/iar/sampleUart2_pushButton/Debug/BrowseInfo/STM32/stm32f4xx_rcc.xcl	d9b3a460a80f0f84
+5	277	6995068330000000	C:/Users/KCCI/Documents/iar/sampleUart2_pushButton/Debug/BrowseInfo/COMM/stm32f4xx_it.xcl	5ae98d0e97c88663
+254	317	6995068330000000	C:/Users/KCCI/Documents/iar/sampleUart2_pushButton/Debug/BrowseInfo/STM32/stm32f4xx_usart.xcl	e22b45ac3f4aa30f
+319	361	6995068336636259	C:/Users/KCCI/Documents/iar/sampleUart2_pushButton/Debug/BrowseInfo/COMM/stm32f4xx_it.pbi	49677b6f238372d4
+278	342	6995068330000000	C:/Users/KCCI/Documents/iar/sampleUart2_pushButton/Debug/BrowseInfo/uart2.xcl	4b4bbdbb6ce44a3a
+334	450	6995068337573548	C:/Users/KCCI/Documents/iar/sampleUart2_pushButton/Debug/BrowseInfo/STM32/misc.pbi	d307470fff58048b
+342	463	6995068337729756	C:/Users/KCCI/Documents/iar/sampleUart2_pushButton/Debug/BrowseInfo/COMM/system_stm32f4xx.pbi	481b453ec2f93bdc
+353	479	6995068337885972	C:/Users/KCCI/Documents/iar/sampleUart2_pushButton/Debug/BrowseInfo/STM32/stm32f4xx_gpio.pbi	53ee34359a11bc45
+361	589	6995068338979462	C:/Users/KCCI/Documents/iar/sampleUart2_pushButton/Debug/BrowseInfo/STM32/stm32f4xx_rcc.pbi	24a5f8c6fdde521b
+480	600	6995068339135686	C:/Users/KCCI/Documents/iar/sampleUart2_pushButton/Debug/BrowseInfo/STM32/stm32f4xx_usart.pbi	2a4944c71b907a98
+178	253	6995110027742066	C:/Users/KCCI/Documents/iar/sampleUart2_pushButton/Debug/BrowseInfo/sampleUart2.pbd	3ac0f2407cb892ba
+253	780	6995110032924090	C:/Users/KCCI/Documents/iar/sampleUart2_pushButton/Debug/BrowseInfo/sampleUart2.pbw	1f48914591d4a764
+1	113	6995110437636824	C:/Users/KCCI/Documents/iar/sampleUart2_pushButton/Debug/BrowseInfo/main.pbi	f02852fcebd5b60e
+114	177	6995110438228931	C:/Users/KCCI/Documents/iar/sampleUart2_pushButton/Debug/BrowseInfo/sampleUart2_part2.pbi	a62cbe7c79f8f514
+178	255	6995110439052443	C:/Users/KCCI/Documents/iar/sampleUart2_pushButton/Debug/BrowseInfo/sampleUart2.pbd	3ac0f2407cb892ba
+256	783	6995110444060204	C:/Users/KCCI/Documents/iar/sampleUart2_pushButton/Debug/BrowseInfo/sampleUart2.pbw	1f48914591d4a764
+2	116	6995110496126745	C:/Users/KCCI/Documents/iar/sampleUart2_pushButton/Debug/BrowseInfo/main.pbi	f02852fcebd5b60e
+117	182	6995110496726744	C:/Users/KCCI/Documents/iar/sampleUart2_pushButton/Debug/BrowseInfo/sampleUart2_part2.pbi	a62cbe7c79f8f514
+184	262	6995110497577038	C:/Users/KCCI/Documents/iar/sampleUart2_pushButton/Debug/BrowseInfo/sampleUart2.pbd	3ac0f2407cb892ba
+264	801	6995110502726565	C:/Users/KCCI/Documents/iar/sampleUart2_pushButton/Debug/BrowseInfo/sampleUart2.pbw	1f48914591d4a764
+1	112	6995111058157934	C:/Users/KCCI/Documents/iar/sampleUart2_pushButton/Debug/BrowseInfo/main.pbi	f02852fcebd5b60e
+113	177	6995111058803566	C:/Users/KCCI/Documents/iar/sampleUart2_pushButton/Debug/BrowseInfo/sampleUart2_part2.pbi	a62cbe7c79f8f514
+179	254	6995111059588126	C:/Users/KCCI/Documents/iar/sampleUart2_pushButton/Debug/BrowseInfo/sampleUart2.pbd	3ac0f2407cb892ba
+255	772	6995111064569451	C:/Users/KCCI/Documents/iar/sampleUart2_pushButton/Debug/BrowseInfo/sampleUart2.pbw	1f48914591d4a764
+1	127	6995111116562984	C:/Users/KCCI/Documents/iar/sampleUart2_pushButton/Debug/BrowseInfo/main.pbi	f02852fcebd5b60e
+129	194	6995111117267248	C:/Users/KCCI/Documents/iar/sampleUart2_pushButton/Debug/BrowseInfo/sampleUart2_part2.pbi	a62cbe7c79f8f514
+196	272	6995111118033850	C:/Users/KCCI/Documents/iar/sampleUart2_pushButton/Debug/BrowseInfo/sampleUart2.pbd	3ac0f2407cb892ba
+274	794	6995111123062034	C:/Users/KCCI/Documents/iar/sampleUart2_pushButton/Debug/BrowseInfo/sampleUart2.pbw	1f48914591d4a764
+1	114	6995111980571165	C:/Users/KCCI/Documents/iar/sampleUart2_pushButton/Debug/BrowseInfo/main.pbi	f02852fcebd5b60e
+116	180	6995111981217738	C:/Users/KCCI/Documents/iar/sampleUart2_pushButton/Debug/BrowseInfo/sampleUart2_part2.pbi	a62cbe7c79f8f514
+181	256	6995111982006779	C:/Users/KCCI/Documents/iar/sampleUart2_pushButton/Debug/BrowseInfo/sampleUart2.pbd	3ac0f2407cb892ba
+258	785	6995111987069154	C:/Users/KCCI/Documents/iar/sampleUart2_pushButton/Debug/BrowseInfo/sampleUart2.pbw	1f48914591d4a764
+1	114	6995112038968450	C:/Users/KCCI/Documents/iar/sampleUart2_pushButton/Debug/BrowseInfo/main.pbi	f02852fcebd5b60e
+116	181	6995112039713624	C:/Users/KCCI/Documents/iar/sampleUart2_pushButton/Debug/BrowseInfo/sampleUart2_part2.pbi	a62cbe7c79f8f514
+183	259	6995112040466180	C:/Users/KCCI/Documents/iar/sampleUart2_pushButton/Debug/BrowseInfo/sampleUart2.pbd	3ac0f2407cb892ba
+263	789	6995112045583417	C:/Users/KCCI/Documents/iar/sampleUart2_pushButton/Debug/BrowseInfo/sampleUart2.pbw	1f48914591d4a764
+1	113	6995113457811408	C:/Users/KCCI/Documents/iar/sampleUart2_pushButton/Debug/BrowseInfo/main.pbi	f02852fcebd5b60e
+115	179	6995113458458225	C:/Users/KCCI/Documents/iar/sampleUart2_pushButton/Debug/BrowseInfo/sampleUart2_part2.pbi	a62cbe7c79f8f514
+180	258	6995113459249518	C:/Users/KCCI/Documents/iar/sampleUart2_pushButton/Debug/BrowseInfo/sampleUart2.pbd	3ac0f2407cb892ba
+259	795	6995113464429275	C:/Users/KCCI/Documents/iar/sampleUart2_pushButton/Debug/BrowseInfo/sampleUart2.pbw	1f48914591d4a764
+1	116	6995113667423744	C:/Users/KCCI/Documents/iar/sampleUart2_pushButton/Debug/BrowseInfo/main.pbi	f02852fcebd5b60e
+118	183	6995113668057755	C:/Users/KCCI/Documents/iar/sampleUart2_pushButton/Debug/BrowseInfo/sampleUart2_part2.pbi	a62cbe7c79f8f514
+185	260	6995113668842807	C:/Users/KCCI/Documents/iar/sampleUart2_pushButton/Debug/BrowseInfo/sampleUart2.pbd	3ac0f2407cb892ba
+261	791	6995113673931945	C:/Users/KCCI/Documents/iar/sampleUart2_pushButton/Debug/BrowseInfo/sampleUart2.pbw	1f48914591d4a764
+1	79	6995118910000000	C:/Users/KCCI/Documents/iar/sampleUart2_dipSW/Debug/BrowseInfo/COMM/system_stm32f4xx.xcl	d45d1aa5919eaf0b
+7	84	6995118910000000	C:/Users/KCCI/Documents/iar/sampleUart2_dipSW/Debug/BrowseInfo/COMM/stm32f4xx_it.xcl	e988189caed39154
+12	87	6995118910000000	C:/Users/KCCI/Documents/iar/sampleUart2_dipSW/Debug/BrowseInfo/STM32/stm32f4xx_rcc.xcl	21afc981c4ea7d4
+10	105	6995118910000000	C:/Users/KCCI/Documents/iar/sampleUart2_dipSW/Debug/BrowseInfo/STM32/stm32f4xx_gpio.xcl	5ae1de78a98598df
+81	147	6995118910000000	C:/Users/KCCI/Documents/iar/sampleUart2_dipSW/Debug/BrowseInfo/main.xcl	ed939b06071701f8
+85	149	6995118910000000	C:/Users/KCCI/Documents/iar/sampleUart2_dipSW/Debug/BrowseInfo/STM32/stm32f4xx_usart.xcl	caaa13e1ab061a92
+88	154	6995118910000000	C:/Users/KCCI/Documents/iar/sampleUart2_dipSW/Debug/BrowseInfo/STM32/misc.xcl	f036e9d6715ccfb9
+149	209	6995118920000000	C:/Users/KCCI/Documents/iar/sampleUart2_dipSW/Debug/BrowseInfo/uart2.xcl	e9f6c723b6981313
+105	224	6995118920644007	C:/Users/KCCI/Documents/iar/sampleUart2_dipSW/Debug/BrowseInfo/COMM/system_stm32f4xx.pbi	292c4b4153bf9341
+209	232	6995118920800266	C:/Users/KCCI/Documents/iar/sampleUart2_dipSW/Debug/BrowseInfo/COMM/stm32f4xx_it.pbi	c47086610414979f
+147	264	6995118921078422	C:/Users/KCCI/Documents/iar/sampleUart2_dipSW/Debug/BrowseInfo/STM32/stm32f4xx_gpio.pbi	7e2edfa3e0f25e67
+224	343	6995118921957241	C:/Users/KCCI/Documents/iar/sampleUart2_dipSW/Debug/BrowseInfo/STM32/stm32f4xx_rcc.pbi	24dbb4ae41399293
+232	348	6995118921957241	C:/Users/KCCI/Documents/iar/sampleUart2_dipSW/Debug/BrowseInfo/main.pbi	c4bfba8975303d4c
+154	373	6995118922165674	C:/Users/KCCI/Documents/iar/sampleUart2_dipSW/Debug/BrowseInfo/STM32/misc.pbi	79b6bfa3dc89eb9f
+264	379	6995118922321904	C:/Users/KCCI/Documents/iar/sampleUart2_dipSW/Debug/BrowseInfo/STM32/stm32f4xx_usart.pbi	3fae0e0d0bcf9d71
+373	439	6995118922919557	C:/Users/KCCI/Documents/iar/sampleUart2_dipSW/Debug/BrowseInfo/sampleUart2_part0.pbi	74d2c03169f3d751
+343	454	6995118923042396	C:/Users/KCCI/Documents/iar/sampleUart2_dipSW/Debug/BrowseInfo/uart2.pbi	67a9ef6d988d24cc
+380	470	6995118923198647	C:/Users/KCCI/Documents/iar/sampleUart2_dipSW/Debug/BrowseInfo/sampleUart2_part1.pbi	fe3b7721e62dcbed
+454	518	6995118923646617	C:/Users/KCCI/Documents/iar/sampleUart2_dipSW/Debug/BrowseInfo/sampleUart2_part2.pbi	235eac5eb31e34f2
+519	594	6995118924376427	C:/Users/KCCI/Documents/iar/sampleUart2_dipSW/Debug/BrowseInfo/sampleUart2.pbd	5ac65e6d4edda23c
+594	1118	6995118929518089	C:/Users/KCCI/Documents/iar/sampleUart2_dipSW/Debug/BrowseInfo/sampleUart2.pbw	bd82219f62fbc489
+58	234	6995119320000000	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sampleUart2_dipSW/Debug/BrowseInfo/COMM/stm32f4xx_it.xcl	94e128f10864d975
+77	261	6995119320000000	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sampleUart2_dipSW/Debug/BrowseInfo/main.xcl	cb19b13602a6f049
+245	420	6995119320000000	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sampleUart2_dipSW/Debug/BrowseInfo/uart2.xcl	655b889628ebe500
+273	439	6995119320000000	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sampleUart2_dipSW/Debug/BrowseInfo/COMM/system_stm32f4xx.xcl	ee4980e4decb37cd
+426	519	6995119347675373	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sampleUart2_dipSW/Debug/BrowseInfo/COMM/stm32f4xx_it.pbi	e22268e6724a27cf
+448	833	6995119350707579	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sampleUart2_dipSW/Debug/BrowseInfo/COMM/system_stm32f4xx.pbi	d5d6ec54c70648f
+522	876	6995119351216548	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sampleUart2_dipSW/Debug/BrowseInfo/uart2.pbi	c68008f5ff89a026
+859	1228	6995119354707940	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sampleUart2_dipSW/Debug/BrowseInfo/main.pbi	9e2c1430435f2e4e
+1231	1952	6995119361940804	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sampleUart2_dipSW/Debug/BrowseInfo/sampleUart2.pbd	c4e43efc35c3e084
+1956	5105	6995119393304804	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sampleUart2_dipSW/Debug/BrowseInfo/sampleUart2.pbw	6b7b06f680eb0695
+30	446	6995119554549206	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sampleUart2_dipSW/Debug/BrowseInfo/uart2.pbi	c68008f5ff89a026
+34	450	6995119554549206	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sampleUart2_dipSW/Debug/BrowseInfo/main.pbi	9e2c1430435f2e4e
+454	1178	6995119561882514	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sampleUart2_dipSW/Debug/BrowseInfo/sampleUart2.pbd	c4e43efc35c3e084
+1182	2834	6995119578218326	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sampleUart2_dipSW/Debug/BrowseInfo/sampleUart2.pbw	6b7b06f680eb0695
+32	435	6995120544385102	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sampleUart2_dipSW/Debug/BrowseInfo/uart2.pbi	c68008f5ff89a026
+28	440	6995120544405120	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sampleUart2_dipSW/Debug/BrowseInfo/main.pbi	9e2c1430435f2e4e
+442	1163	6995120551550464	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sampleUart2_dipSW/Debug/BrowseInfo/sampleUart2.pbd	c4e43efc35c3e084
+1167	2711	6995120566894330	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sampleUart2_dipSW/Debug/BrowseInfo/sampleUart2.pbw	6b7b06f680eb0695
+41	679	6995120589734777	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sampleUart2_dipSW/Debug/BrowseInfo/main.pbi	9e2c1430435f2e4e
+683	1495	6995120597890789	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sampleUart2_dipSW/Debug/BrowseInfo/sampleUart2.pbd	c4e43efc35c3e084
+1508	3297	6995120615460116	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sampleUart2_dipSW/Debug/BrowseInfo/sampleUart2.pbw	6b7b06f680eb0695
+13	453	6995120775107298	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sampleUart2_dipSW/Debug/BrowseInfo/main.pbi	9e2c1430435f2e4e
+34	791	6995120779105682	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sampleUart2_dipSW/Debug/BrowseInfo/main.pbi	9e2c1430435f2e4e
+464	1298	6995120783828548	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sampleUart2_dipSW/Debug/BrowseInfo/sampleUart2.pbd	c4e43efc35c3e084
+1306	2978	6995120799594494	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sampleUart2_dipSW/Debug/BrowseInfo/sampleUart2.pbw	6b7b06f680eb0695
+30	550	6995120857913424	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sampleUart2_dipSW/Debug/BrowseInfo/main.pbi	9e2c1430435f2e4e
+554	987	6995120862404137	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sampleUart2_dipSW/Debug/BrowseInfo/sampleUart2.pbd	c4e43efc35c3e084
+991	2699	6995120878884101	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sampleUart2_dipSW/Debug/BrowseInfo/sampleUart2.pbw	6b7b06f680eb0695
+14	502	6995120936708580	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sampleUart2_dipSW/Debug/BrowseInfo/main.pbi	9e2c1430435f2e4e
+505	917	6995120940895318	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sampleUart2_dipSW/Debug/BrowseInfo/sampleUart2.pbd	c4e43efc35c3e084
+920	2543	6995120956916340	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sampleUart2_dipSW/Debug/BrowseInfo/sampleUart2.pbw	6b7b06f680eb0695
+22	443	6995121468353164	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sampleUart2_dipSW/Debug/BrowseInfo/uart2.pbi	c68008f5ff89a026
+26	447	6995121468353164	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sampleUart2_dipSW/Debug/BrowseInfo/main.pbi	9e2c1430435f2e4e
+450	1131	6995121475163271	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sampleUart2_dipSW/Debug/BrowseInfo/sampleUart2.pbd	c4e43efc35c3e084
+1137	2755	6995121491215699	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sampleUart2_dipSW/Debug/BrowseInfo/sampleUart2.pbw	6b7b06f680eb0695
+33	445	6995139175860974	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sampleUart2_dipSW/Debug/BrowseInfo/uart2.pbi	c68008f5ff89a026
+29	450	6995139176017699	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sampleUart2_dipSW/Debug/BrowseInfo/main.pbi	9e2c1430435f2e4e
+452	1171	6995139183037707	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sampleUart2_dipSW/Debug/BrowseInfo/sampleUart2.pbd	c4e43efc35c3e084
+1175	2759	6995139198907655	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sampleUart2_dipSW/Debug/BrowseInfo/sampleUart2.pbw	6b7b06f680eb0695
+29	458	6995141273079760	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sampleUart2_dipSW/Debug/BrowseInfo/main.pbi	9e2c1430435f2e4e
+34	463	6995141273079760	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sampleUart2_dipSW/Debug/BrowseInfo/uart2.pbi	c68008f5ff89a026
+467	1247	6995141281185683	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sampleUart2_dipSW/Debug/BrowseInfo/sampleUart2.pbd	c4e43efc35c3e084
+1252	2803	6995141296578030	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sampleUart2_dipSW/Debug/BrowseInfo/sampleUart2.pbw	6b7b06f680eb0695
