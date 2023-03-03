@@ -1,0 +1,17 @@
+# ninja log v5
+3	23	6979584788127801	C:/Users/IoT07/Documents/iar/LED.test/Debug/Obj/CMSIS/startup_stm32f40_41xxx.o	168c1b7652e5dbb9
+6	178	6979584789573215	C:/Users/IoT07/Documents/iar/LED.test/Debug/Obj/STM32/stm32f4xx_it.o	30aec414a7e4ba41
+0	269	6979584790530797	C:/Users/IoT07/Documents/iar/LED.test/Debug/Obj/COMM/stm32f4xx_gpio.o	7c756c43e9b38524
+26	317	6979584790999446	C:/Users/IoT07/Documents/iar/LED.test/Debug/Obj/STM32/system_stm32f4xx.o	3fe87dcb56679216
+179	334	6979584791155667	C:/Users/IoT07/Documents/iar/LED.test/Debug/Obj/main.o	6eb714064857a0a4
+5	365	6979584791468082	C:/Users/IoT07/Documents/iar/LED.test/Debug/Obj/COMM/stm32f4xx_rcc.o	b5b82d9a018b1ab5
+368	433	6979584792093435	C:/Users/IoT07/Documents/iar/LED.test/Debug/Exe/LED.test.out	f489b392dfb5247e
+435	441	6979584792250029	C:/Users/IoT07/Documents/iar/LED.test/Debug/Exe/LED.test.hex	ecde896f5ec8063f
+13	270	6995070455596214	C:/Users/IoT21/Documents/iar/push_example/Debug/Obj/CMSIS/startup_stm32f40_41xxx.o	a627f7c31494ad3c
+230	360	6995070456453916	C:/Users/IoT21/Documents/iar/push_example/Debug/Obj/STM32/stm32f4xx_it.o	c294efe996d19d37
+6	422	6995070457002456	C:/Users/IoT21/Documents/iar/push_example/Debug/Obj/COMM/stm32f4xx_gpio.o	3392dc6f6333f738
+270	428	6995070457042355	C:/Users/IoT21/Documents/iar/push_example/Debug/Obj/main.o	c68e8ab0886e865d
+236	430	6995070457062299	C:/Users/IoT21/Documents/iar/push_example/Debug/Obj/STM32/system_stm32f4xx.o	3fbc05ed131b0ce4
+362	599	6995070458818156	C:/Users/IoT21/Documents/iar/push_example/Debug/Obj/COMM/stm32f4xx_rcc.o	7009d0512f83c813
+602	1019	6995070463024132	C:/Users/IoT21/Documents/iar/push_example/Debug/Exe/push_example.out	efd433da45cc3d83
+1021	1099	6995070463893099	C:/Users/IoT21/Documents/iar/push_example/Debug/Exe/push_example.hex	e9108631d40d345e
