@@ -1,0 +1,211 @@
+# ninja log v5
+1	20	6980354287860224	C:/Users/KCCI/Documents/iar/sample/Debug/Obj/CMSIS/startup_stm32f40_41xxx.o	8aa2c70ff3f9afb1
+3	55	6980354288172661	C:/Users/KCCI/Documents/iar/sample/Debug/Obj/COMM/stm32f4xx_it.o	45c6b664c9f61e0
+7	137	6980354288953717	C:/Users/KCCI/Documents/iar/sample/Debug/Obj/main.o	571177048de58fe5
+5	152	6980354289109933	C:/Users/KCCI/Documents/iar/sample/Debug/Obj/COMM/system_stm32f4xx.o	a8bcb677fb185d48
+56	201	6980354289735231	C:/Users/KCCI/Documents/iar/sample/Debug/Obj/STM32/stm32f4xx_gpio.o	47daa49526e182a7
+21	230	6980354289891578	C:/Users/KCCI/Documents/iar/sample/Debug/Obj/STM32/stm32f4xx_rcc.o	fb47c87a9e43047
+232	304	6980354290672067	C:/Users/KCCI/Documents/iar/sample/Debug/Exe/sample.out	96d67c47f35d29ef
+307	313	6980354290828316	C:/Users/KCCI/Documents/iar/sample/Debug/Exe/sample.hex	f998f53d327e1381
+1	366	6994202262266118	C:/Users/KCCI/Documents/iar/sample/Debug/Obj/CMSIS/startup_stm32f40_41xxx.o	8aa2c70ff3f9afb1
+177	705	6994202267242208	C:/Users/KCCI/Documents/iar/sample/Debug/Obj/COMM/stm32f4xx_it.o	45c6b664c9f61e0
+367	758	6994202267874926	C:/Users/KCCI/Documents/iar/sample/Debug/Obj/main.o	571177048de58fe5
+360	773	6994202267947180	C:/Users/KCCI/Documents/iar/sample/Debug/Obj/COMM/system_stm32f4xx.o	a8bcb677fb185d48
+362	783	6994202267947180	C:/Users/KCCI/Documents/iar/sample/Debug/Obj/STM32/stm32f4xx_gpio.o	47daa49526e182a7
+707	918	6994202269442517	C:/Users/KCCI/Documents/iar/sample/Debug/Obj/STM32/stm32f4xx_rcc.o	fb47c87a9e43047
+919	1275	6994202272922100	C:/Users/KCCI/Documents/iar/sample/Debug/Exe/sample.out	96d67c47f35d29ef
+1277	1343	6994202273767422	C:/Users/KCCI/Documents/iar/sample/Debug/Exe/sample.hex	f998f53d327e1381
+1	23	6994230941372873	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Obj/CMSIS/startup_stm32f40_41xxx.o	8ea7281413af8be9
+6	115	6994230942257064	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Obj/COMM/stm32f4xx_it.o	b0f600458ec8923f
+4	200	6994230943105650	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Obj/COMM/system_stm32f4xx.o	85b92a6bd447a656
+10	214	6994230943261894	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Obj/main.o	4d9bff239bfd7797
+116	260	6994230943661889	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Obj/STM32/stm32f4xx_gpio.o	f43b67c0fbed179d
+24	306	6994230944104450	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Obj/STM32/stm32f4xx_rcc.o	25edd9b7ad4e2f8d
+308	356	6994230944595137	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Exe/sampleUart2.out	41167a94130fba22
+358	366	6994230944751355	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Exe/sampleUart2.hex	30c0bc3f3d0a132c
+2	176	6994244616458351	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Obj/main.o	4d9bff239bfd7797
+1	183	6994245843846876	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Obj/STM32/stm32f4xx_usart.o	2a063bec09d6981e
+1	162	6994246562199019	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Obj/COMM/system_stm32f4xx.o	85b92a6bd447a656
+10	182	6994246562383550	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Obj/STM32/stm32f4xx_gpio.o	f43b67c0fbed179d
+8	212	6994246562664833	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Obj/STM32/stm32f4xx_usart.o	2a063bec09d6981e
+5	241	6994246563044234	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Obj/STM32/stm32f4xx_rcc.o	25edd9b7ad4e2f8d
+163	286	6994246563384594	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Obj/main.o	4d9bff239bfd7797
+184	323	6994246563843612	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Obj/uart2.o	fd07b93be758f690
+1	145	6994247318191067	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Obj/STM32/misc.o	e0bbe604dd515962
+147	201	6994247318857566	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Exe/sampleUart2.out	eb04cd3d0e0dab47
+203	211	6994247319015462	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Exe/sampleUart2.hex	30c0bc3f3d0a132c
+7	24	6994250631393741	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Obj/CMSIS/startup_stm32f40_41xxx.o	8ea7281413af8be9
+1	100	6994250632132765	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Obj/COMM/stm32f4xx_it.o	b0f600458ec8923f
+10	213	6994250633289459	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Obj/COMM/system_stm32f4xx.o	85b92a6bd447a656
+102	248	6994250633601877	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Obj/STM32/stm32f4xx_gpio.o	f43b67c0fbed179d
+12	261	6994250633786131	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Obj/STM32/stm32f4xx_usart.o	2a063bec09d6981e
+26	314	6994250634288811	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Obj/STM32/stm32f4xx_rcc.o	25edd9b7ad4e2f8d
+215	348	6994250634568546	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Obj/STM32/misc.o	e0bbe604dd515962
+250	369	6994250634881584	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Obj/main.o	4d9bff239bfd7797
+266	397	6994250635170815	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Obj/uart2.o	fd07b93be758f690
+399	450	6994250635704510	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Exe/sampleUart2.out	eb04cd3d0e0dab47
+452	461	6994250635800484	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Exe/sampleUart2.hex	30c0bc3f3d0a132c
+1	16	6994250863984885	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Obj/CMSIS/startup_stm32f40_41xxx.o	8ea7281413af8be9
+6	49	6994250864420642	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Obj/COMM/stm32f4xx_it.o	b0f600458ec8923f
+8	132	6994250865146765	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Obj/main.o	4d9bff239bfd7797
+3	143	6994250865241821	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Obj/COMM/system_stm32f4xx.o	85b92a6bd447a656
+20	172	6994250865554284	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Obj/STM32/stm32f4xx_gpio.o	f43b67c0fbed179d
+52	255	6994250866392928	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Obj/STM32/stm32f4xx_rcc.o	25edd9b7ad4e2f8d
+144	272	6994250866575507	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Obj/STM32/misc.o	e0bbe604dd515962
+132	297	6994250866731750	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Obj/STM32/stm32f4xx_usart.o	2a063bec09d6981e
+173	305	6994250866923043	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Obj/uart2.o	fd07b93be758f690
+307	355	6994250867395100	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Exe/sampleUart2.out	eb04cd3d0e0dab47
+356	364	6994250867551313	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Exe/sampleUart2.hex	30c0bc3f3d0a132c
+1	125	6994251165658481	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Obj/main.o	4d9bff239bfd7797
+126	230	6994251166570283	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Exe/sampleUart2.out	eb04cd3d0e0dab47
+232	239	6994251166883360	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Exe/sampleUart2.hex	30c0bc3f3d0a132c
+7	21	6994251216576527	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Obj/CMSIS/startup_stm32f40_41xxx.o	8ea7281413af8be9
+5	46	6994251216732767	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Obj/COMM/stm32f4xx_it.o	b0f600458ec8923f
+9	136	6994251217579168	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Obj/STM32/misc.o	e0bbe604dd515962
+1	142	6994251217579168	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Obj/COMM/system_stm32f4xx.o	85b92a6bd447a656
+48	217	6994251218449882	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Obj/STM32/stm32f4xx_usart.o	2a063bec09d6981e
+24	234	6994251218579939	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Obj/STM32/stm32f4xx_rcc.o	25edd9b7ad4e2f8d
+139	263	6994251218912686	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Obj/main.o	4d9bff239bfd7797
+143	287	6994251219068928	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Obj/STM32/stm32f4xx_gpio.o	f43b67c0fbed179d
+219	350	6994251219736254	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Obj/uart2.o	fd07b93be758f690
+352	405	6994251220328051	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Exe/sampleUart2.out	eb04cd3d0e0dab47
+407	415	6994251220413428	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Exe/sampleUart2.hex	30c0bc3f3d0a132c
+2	181	6994252026101442	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Obj/main.o	4d9bff239bfd7797
+182	233	6994252026711038	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Exe/sampleUart2.out	eb04cd3d0e0dab47
+235	242	6994252026785222	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Exe/sampleUart2.hex	30c0bc3f3d0a132c
+1	123	6994252288601088	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Obj/main.o	4d9bff239bfd7797
+1	56	6994252341164342	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Exe/sampleUart2.out	eb04cd3d0e0dab47
+58	66	6994252341420614	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Exe/sampleUart2.hex	30c0bc3f3d0a132c
+2	124	6994252896085466	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Obj/main.o	4d9bff239bfd7797
+126	177	6994252896598236	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Exe/sampleUart2.out	eb04cd3d0e0dab47
+178	185	6994252896754000	C:/Users/KCCI/Documents/iar/sampleUart2/Debug/Exe/sampleUart2.hex	30c0bc3f3d0a132c
+6	47	6997748160148152	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwd/Debug/Obj/CMSIS/startup_stm32f40_41xxx.o	dfb157ecc1eb1dd4
+1	127	6997748160856146	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwd/Debug/Obj/COMM/stm32f4xx_it.o	51a49818f613dd11
+11	229	6997748161816685	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwd/Debug/Obj/STM32/stm32f4xx_gpio.o	3d5cb7f2555472a2
+16	234	6997748161816685	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwd/Debug/Obj/STM32/misc.o	e71d45151d5b7097
+128	274	6997748162293636	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwd/Debug/Obj/COMM/system_stm32f4xx.o	3f004adc820334de
+48	327	6997748162792933	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwd/Debug/Obj/STM32/stm32f4xx_rcc.o	61ec95b84b4a5060
+275	413	6997748163739370	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwd/Debug/Obj/uart2.o	e44aa71f8aa5e79d
+235	417	6997748163739370	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwd/Debug/Obj/STM32/stm32f4xx_usart.o	3348b4181b38e9c9
+328	476	6997748164388368	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwd/Debug/Obj/main.o	e385305475bf2f77
+231	505	6997748164644829	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwd/Debug/Obj/STM32/stm32f4xx_tim.o	23e4a010f56651cd
+507	566	6997748165188364	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwd/Debug/Exe/sampleUart2.out	8d65c0395999c622
+568	576	6997748165344547	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwd/Debug/Exe/sampleUart2.hex	a66375337f62530a
+6	65	6997803255740273	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm/Debug/Obj/CMSIS/startup_stm32f40_41xxx.o	bf4fd3163a179550
+1	149	6997803256594729	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm/Debug/Obj/COMM/stm32f4xx_it.o	f2d3d912b2579ab2
+17	238	6997803257429232	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm/Debug/Obj/COMM/system_stm32f4xx.o	ca7dbfa39d385b7c
+150	280	6997803257899323	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm/Debug/Obj/STM32/misc.o	2f4d8e4e16884349
+65	292	6997803257925402	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm/Debug/Obj/STM32/stm32f4xx_gpio.o	6cae4b4cc3f53e0f
+12	338	6997803258394722	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm/Debug/Obj/STM32/stm32f4xx_rcc.o	912d38f97a52a64d
+293	433	6997803259430791	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm/Debug/Obj/uart2.o	a6ae452f1d7df033
+281	453	6997803259587682	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm/Debug/Obj/STM32/stm32f4xx_usart.o	4fe8281ca2589b2b
+339	487	6997803259930216	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm/Debug/Obj/main.o	4d1c4ec2923ac62e
+239	510	6997803260097754	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm/Debug/Obj/STM32/stm32f4xx_tim.o	7080095b4c0c89be
+513	571	6997803260765398	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm/Debug/Exe/sampleUart2.out	755fd7f741efcc55
+573	582	6997803260931697	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm/Debug/Exe/sampleUart2.hex	53093f9e3934ccfb
+1	233	6997813399625380	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm/Debug/Obj/main.o	4d1c4ec2923ac62e
+235	286	6997813400188626	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm/Debug/Exe/sampleUart2.out	755fd7f741efcc55
+288	294	6997813400259267	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm/Debug/Exe/sampleUart2.hex	53093f9e3934ccfb
+1	235	6997822087223800	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm/Debug/Obj/main.o	4d1c4ec2923ac62e
+239	293	6997822087921924	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm/Debug/Exe/sampleUart2.out	755fd7f741efcc55
+296	305	6997822088130435	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm/Debug/Exe/sampleUart2.hex	53093f9e3934ccfb
+1	179	6997823205754599	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm/Debug/Obj/main.o	4d1c4ec2923ac62e
+180	229	6997823206226063	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm/Debug/Exe/sampleUart2.out	755fd7f741efcc55
+231	237	6997823206382881	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm/Debug/Exe/sampleUart2.hex	53093f9e3934ccfb
+0	23	6997866349931916	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor/Debug/Obj/CMSIS/startup_stm32f40_41xxx.o	59164c1db5d8ac2f
+3	110	6997866350641403	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor/Debug/Obj/COMM/stm32f4xx_it.o	3b87e577e91478da
+7	226	6997866351837412	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor/Debug/Obj/COMM/system_stm32f4xx.o	6983bf6617440962
+24	248	6997866351993180	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor/Debug/Obj/STM32/misc.o	2c8ac1bbcfa3d0aa
+112	327	6997866352800353	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor/Debug/Obj/STM32/stm32f4xx_rcc.o	fe1fe14047c513dd
+10	371	6997866353286935	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor/Debug/Obj/STM32/stm32f4xx_tim.o	34b1b4264e8a6c31
+229	384	6997866353443158	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor/Debug/Obj/STM32/stm32f4xx_gpio.o	753058c3003fff23
+251	430	6997866353954059	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor/Debug/Obj/STM32/stm32f4xx_usart.o	ffb9788f65f4a8af
+373	512	6997866354645487	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor/Debug/Obj/uart2.o	a9b5cf8ab897f3b0
+1	17	6997866673125654	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor/Debug/Obj/CMSIS/startup_stm32f40_41xxx.o	59164c1db5d8ac2f
+4	46	6997866673299781	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor/Debug/Obj/COMM/stm32f4xx_it.o	3b87e577e91478da
+20	154	6997866674468804	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor/Debug/Obj/STM32/misc.o	2c8ac1bbcfa3d0aa
+7	158	6997866674488926	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor/Debug/Obj/COMM/system_stm32f4xx.o	6983bf6617440962
+50	256	6997866675491197	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor/Debug/Obj/STM32/stm32f4xx_rcc.o	fe1fe14047c513dd
+10	290	6997866675799018	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor/Debug/Obj/STM32/stm32f4xx_tim.o	34b1b4264e8a6c31
+160	302	6997866675799018	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor/Debug/Obj/uart2.o	a9b5cf8ab897f3b0
+156	304	6997866675799018	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor/Debug/Obj/STM32/stm32f4xx_gpio.o	753058c3003fff23
+258	429	6997866677133051	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor/Debug/Obj/STM32/stm32f4xx_usart.o	ffb9788f65f4a8af
+11	143	6997867401148799	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor/Debug/Obj/STM32/misc.o	2c8ac1bbcfa3d0aa
+8	155	6997867401178979	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor/Debug/Obj/STM32/stm32f4xx_exti.o	3d3aa7737e816b75
+6	160	6997867401178979	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor/Debug/Obj/COMM/system_stm32f4xx.o	6983bf6617440962
+0	217	6997867401826567	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor/Debug/Obj/STM32/stm32f4xx_rcc.o	fe1fe14047c513dd
+157	292	6997867402521746	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor/Debug/Obj/uart2.o	a9b5cf8ab897f3b0
+144	304	6997867402677992	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor/Debug/Obj/STM32/stm32f4xx_gpio.o	753058c3003fff23
+162	333	6997867402995466	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor/Debug/Obj/STM32/stm32f4xx_usart.o	ffb9788f65f4a8af
+218	378	6997867403460095	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor/Debug/Obj/main.o	2ba55e7ce2b3b097
+294	560	6997867405221101	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor/Debug/Obj/STM32/stm32f4xx_tim.o	34b1b4264e8a6c31
+562	626	6997867405851154	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor/Debug/Exe/sampleUart2.out	4fe1bdd0340a5d7
+629	640	6997867406137446	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor/Debug/Exe/sampleUart2.hex	1cbed677af66cb35
+1	25	6998570389644782	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter/Debug/Obj/CMSIS/startup_stm32f40_41xxx.o	893118348ef6861c
+8	120	6998570390549826	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter/Debug/Obj/COMM/stm32f4xx_it.o	9b2556051cd58a15
+4	208	6998570391417502	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter/Debug/Obj/COMM/system_stm32f4xx.o	5978057902e51daa
+28	245	6998570391787107	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter/Debug/Obj/STM32/misc.o	4d47ea9703a1647c
+122	335	6998570392684115	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter/Debug/Obj/STM32/stm32f4xx_rcc.o	f123a7819c50af89
+209	355	6998570392893561	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter/Debug/Obj/STM32/stm32f4xx_exti.o	63ef61d2efa519a9
+10	373	6998570393043159	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter/Debug/Obj/STM32/stm32f4xx_tim.o	55f59ee146a297a2
+247	399	6998570393332395	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter/Debug/Obj/STM32/stm32f4xx_gpio.o	273635954fa4046d
+357	497	6998570394319747	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter/Debug/Obj/uart2.o	34513406fddde829
+336	514	6998570394479324	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter/Debug/Obj/STM32/stm32f4xx_usart.o	2b04e2509588c7d
+374	539	6998570394738634	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter/Debug/Obj/main.o	ac4322fae19ffe63
+541	601	6998570395351578	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter/Debug/Exe/sampleUart2.out	8c10eb7d6d054d4e
+604	612	6998570395528175	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter/Debug/Exe/sampleUart2.hex	8618b2ade91a8bb
+1	232	6998576080221691	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter/Debug/Obj/main.o	ac4322fae19ffe63
+234	289	6998576080811110	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter/Debug/Exe/sampleUart2.out	8c10eb7d6d054d4e
+291	299	6998576080960650	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter/Debug/Exe/sampleUart2.hex	8618b2ade91a8bb
+1	183	6998576608234812	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter/Debug/Obj/main.o	ac4322fae19ffe63
+184	235	6998576608769916	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter/Debug/Exe/sampleUart2.out	8c10eb7d6d054d4e
+237	244	6998576608919629	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter/Debug/Exe/sampleUart2.hex	8618b2ade91a8bb
+1	172	6998578621770965	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter/Debug/Obj/main.o	ac4322fae19ffe63
+174	227	6998578622319676	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter/Debug/Exe/sampleUart2.out	8c10eb7d6d054d4e
+229	236	6998578622479694	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter/Debug/Exe/sampleUart2.hex	8618b2ade91a8bb
+1	22	6998583270332109	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter/Debug/Obj/CMSIS/startup_stm32f40_41xxx.o	893118348ef6861c
+9	122	6998583271293148	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter/Debug/Obj/COMM/stm32f4xx_it.o	9b2556051cd58a15
+12	237	6998583272430113	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter/Debug/Obj/COMM/system_stm32f4xx.o	5978057902e51daa
+23	264	6998583272704439	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter/Debug/Obj/STM32/stm32f4xx_gpio.o	273635954fa4046d
+123	339	6998583273457545	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter/Debug/Obj/STM32/stm32f4xx_rcc.o	f123a7819c50af89
+5	346	6998583273467519	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter/Debug/Obj/STM32/stm32f4xx_tim.o	55f59ee146a297a2
+238	381	6998583273886400	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter/Debug/Obj/STM32/misc.o	4d47ea9703a1647c
+266	399	6998583274070979	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter/Debug/Obj/STM32/stm32f4xx_exti.o	63ef61d2efa519a9
+347	483	6998583274898766	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter/Debug/Obj/uart2.o	34513406fddde829
+341	513	6998583275168051	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter/Debug/Obj/main.o	ac4322fae19ffe63
+382	584	6998583275872118	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter/Debug/Obj/STM32/stm32f4xx_usart.o	2b04e2509588c7d
+586	642	6998583276500989	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter/Debug/Exe/sampleUart2.out	8c10eb7d6d054d4e
+643	652	6998583276660020	C:/Users/KCCI/Documents/iar/sampleUart2_tim10_pwm_dcmotor_counter/Debug/Exe/sampleUart2.hex	8618b2ade91a8bb
+15	44	6998732781081492	C:/Users/IoT21/Documents/iar/0307 sampleUart2_tim10_pwm_dcmotor_counter/Debug/Obj/CMSIS/startup_stm32f40_41xxx.o	1f53e5df227d7e11
+8	151	6998732782088774	C:/Users/IoT21/Documents/iar/0307 sampleUart2_tim10_pwm_dcmotor_counter/Debug/Obj/COMM/stm32f4xx_it.o	a345cda0702618f8
+1	246	6998732783016281	C:/Users/IoT21/Documents/iar/0307 sampleUart2_tim10_pwm_dcmotor_counter/Debug/Obj/COMM/system_stm32f4xx.o	a29eb1ab69bef780
+21	279	6998732783345401	C:/Users/IoT21/Documents/iar/0307 sampleUart2_tim10_pwm_dcmotor_counter/Debug/Obj/STM32/misc.o	c7fe1d81b74f16ed
+45	326	6998732783824116	C:/Users/IoT21/Documents/iar/0307 sampleUart2_tim10_pwm_dcmotor_counter/Debug/Obj/STM32/stm32f4xx_dma.o	b0bedd275089a9aa
+152	344	6998732784013607	C:/Users/IoT21/Documents/iar/0307 sampleUart2_tim10_pwm_dcmotor_counter/Debug/Obj/STM32/stm32f4xx_gpio.o	9489eb9a390d0b45
+247	417	6998732784741655	C:/Users/IoT21/Documents/iar/0307 sampleUart2_tim10_pwm_dcmotor_counter/Debug/Obj/STM32/stm32f4xx_exti.o	bda41ca8c6cea1a7
+280	525	6998732785818764	C:/Users/IoT21/Documents/iar/0307 sampleUart2_tim10_pwm_dcmotor_counter/Debug/Obj/STM32/stm32f4xx_rcc.o	46f5594451f3f1be
+345	547	6998732786008263	C:/Users/IoT21/Documents/iar/0307 sampleUart2_tim10_pwm_dcmotor_counter/Debug/Obj/STM32/stm32f4xx_usart.o	8aecabd69bbd3c6c
+328	628	6998732786846012	C:/Users/IoT21/Documents/iar/0307 sampleUart2_tim10_pwm_dcmotor_counter/Debug/Obj/STM32/stm32f4xx_tim.o	44d09f8323d95ca6
+528	692	6998732787494271	C:/Users/IoT21/Documents/iar/0307 sampleUart2_tim10_pwm_dcmotor_counter/Debug/Obj/uart2.o	8b4119b7cadb9ed1
+2	191	6998733313014211	C:/Users/IoT21/Documents/iar/0307 sampleUart2_tim10_pwm_dcmotor_counter/Debug/Obj/COMM/system_stm32f4xx.o	a29eb1ab69bef780
+9	199	6998733313024190	C:/Users/IoT21/Documents/iar/0307 sampleUart2_tim10_pwm_dcmotor_counter/Debug/Obj/STM32/stm32f4xx_exti.o	bda41ca8c6cea1a7
+16	206	6998733313064081	C:/Users/IoT21/Documents/iar/0307 sampleUart2_tim10_pwm_dcmotor_counter/Debug/Obj/STM32/misc.o	c7fe1d81b74f16ed
+24	257	6998733313692392	C:/Users/IoT21/Documents/iar/0307 sampleUart2_tim10_pwm_dcmotor_counter/Debug/Obj/STM32/stm32f4xx_adc.o	1688067fb96980f5
+192	373	6998733314859261	C:/Users/IoT21/Documents/iar/0307 sampleUart2_tim10_pwm_dcmotor_counter/Debug/Obj/STM32/stm32f4xx_gpio.o	9489eb9a390d0b45
+200	391	6998733315018838	C:/Users/IoT21/Documents/iar/0307 sampleUart2_tim10_pwm_dcmotor_counter/Debug/Obj/STM32/stm32f4xx_dma.o	b0bedd275089a9aa
+207	422	6998733315347951	C:/Users/IoT21/Documents/iar/0307 sampleUart2_tim10_pwm_dcmotor_counter/Debug/Obj/main.o	3df2cadd9fe82bdd
+258	567	6998733316754184	C:/Users/IoT21/Documents/iar/0307 sampleUart2_tim10_pwm_dcmotor_counter/Debug/Obj/STM32/stm32f4xx_tim.o	44d09f8323d95ca6
+424	593	6998733317053376	C:/Users/IoT21/Documents/iar/0307 sampleUart2_tim10_pwm_dcmotor_counter/Debug/Obj/uart2.o	8b4119b7cadb9ed1
+393	603	6998733317133168	C:/Users/IoT21/Documents/iar/0307 sampleUart2_tim10_pwm_dcmotor_counter/Debug/Obj/STM32/stm32f4xx_usart.o	8aecabd69bbd3c6c
+376	632	6998733317442339	C:/Users/IoT21/Documents/iar/0307 sampleUart2_tim10_pwm_dcmotor_counter/Debug/Obj/STM32/stm32f4xx_rcc.o	46f5594451f3f1be
+633	712	6998733318251496	C:/Users/IoT21/Documents/iar/0307 sampleUart2_tim10_pwm_dcmotor_counter/Debug/Exe/sampleUart2.out	da1cf7e0d89a2fe
+713	726	6998733318462010	C:/Users/IoT21/Documents/iar/0307 sampleUart2_tim10_pwm_dcmotor_counter/Debug/Exe/sampleUart2.hex	5643c1f96dd7650d
+1	276	6998743117664307	C:/Users/IoT21/Documents/iar/0307 sampleUart2_tim10_pwm_dcmotor_counter/Debug/Obj/main.o	3df2cadd9fe82bdd
+277	360	6998743118497872	C:/Users/IoT21/Documents/iar/0307 sampleUart2_tim10_pwm_dcmotor_counter/Debug/Exe/sampleUart2.out	da1cf7e0d89a2fe
+362	376	6998743118736723	C:/Users/IoT21/Documents/iar/0307 sampleUart2_tim10_pwm_dcmotor_counter/Debug/Exe/sampleUart2.hex	5643c1f96dd7650d
+1	458	7000644302186081	C:/Users/IoT21/Documents/iar/0307 sampleUart2_tim10_pwm_dcmotor_counter/Debug/Obj/main.o	3df2cadd9fe82bdd
+459	613	7000644303736927	C:/Users/IoT21/Documents/iar/0307 sampleUart2_tim10_pwm_dcmotor_counter/Debug/Exe/sampleUart2.out	da1cf7e0d89a2fe
+616	637	7000644304045287	C:/Users/IoT21/Documents/iar/0307 sampleUart2_tim10_pwm_dcmotor_counter/Debug/Exe/sampleUart2.hex	5643c1f96dd7650d
+1	188	7000644777153506	C:/Users/IoT21/Documents/iar/0307 sampleUart2_tim10_pwm_dcmotor_counter/Debug/Obj/main.o	3df2cadd9fe82bdd
+188	258	7000644777860721	C:/Users/IoT21/Documents/iar/0307 sampleUart2_tim10_pwm_dcmotor_counter/Debug/Exe/sampleUart2.out	da1cf7e0d89a2fe
+260	267	7000644778018054	C:/Users/IoT21/Documents/iar/0307 sampleUart2_tim10_pwm_dcmotor_counter/Debug/Exe/sampleUart2.hex	5643c1f96dd7650d
