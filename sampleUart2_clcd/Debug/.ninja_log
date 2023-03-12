@@ -1,0 +1,12 @@
+# ninja log v5
+1	668	7000662554724603	C:/Users/IoT21/Documents/iar/0307 sampleUart2_clcd/Debug/Obj/CMSIS/startup_stm32f40_41xxx.o	44227037ad8c88e3
+28	898	7000662563207379	C:/Users/IoT21/Documents/iar/0307 sampleUart2_clcd/Debug/Obj/COMM/stm32f4xx_it.o	a1c0d22111d227fa
+240	1192	7000662566153785	C:/Users/IoT21/Documents/iar/0307 sampleUart2_clcd/Debug/Obj/STM32/misc.o	4c1c5f9fac8a503e
+453	1416	7000662566353254	C:/Users/IoT21/Documents/iar/0307 sampleUart2_clcd/Debug/Obj/STM32/stm32f4xx_gpio.o	13518daa0bb08cad
+670	1631	7000662567161773	C:/Users/IoT21/Documents/iar/0307 sampleUart2_clcd/Debug/Obj/STM32/stm32f4xx_rcc.o	788db9d8be9a280f
+900	1887	7000662573087893	C:/Users/IoT21/Documents/iar/0307 sampleUart2_clcd/Debug/Obj/COMM/system_stm32f4xx.o	1e953e68d0e00a13
+1420	1960	7000662573825916	C:/Users/IoT21/Documents/iar/0307 sampleUart2_clcd/Debug/Obj/uart2.o	f12abb3efb6a7a4b
+1195	1993	7000662574154423	C:/Users/IoT21/Documents/iar/0307 sampleUart2_clcd/Debug/Obj/STM32/stm32f4xx_usart.o	b8d6dbaafcf5ac88
+1634	2010	7000662574323966	C:/Users/IoT21/Documents/iar/0307 sampleUart2_clcd/Debug/Obj/main.o	a44326ddd3b281ab
+2011	2137	7000662575580964	C:/Users/IoT21/Documents/iar/0307 sampleUart2_clcd/Debug/Exe/sampleUart2.out	61b338fc349d594
+2140	2161	7000662575899898	C:/Users/IoT21/Documents/iar/0307 sampleUart2_clcd/Debug/Exe/sampleUart2.hex	2182e76891bde533

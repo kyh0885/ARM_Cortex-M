@@ -1,0 +1,26 @@
+# ninja log v5
+8	117	6998764930000000	C:/Users/IoT21/Documents/iar/0307 sampleUart2_clcd/Debug/BrowseInfo/COMM/stm32f4xx_it.xcl	5fd5464e02f90637
+14	124	6998764930000000	C:/Users/IoT21/Documents/iar/0307 sampleUart2_clcd/Debug/BrowseInfo/STM32/stm32f4xx_gpio.xcl	a986c0204541458f
+1	130	6998764930000000	C:/Users/IoT21/Documents/iar/0307 sampleUart2_clcd/Debug/BrowseInfo/COMM/system_stm32f4xx.xcl	1e72ad50631a4e1c
+20	137	6998764930000000	C:/Users/IoT21/Documents/iar/0307 sampleUart2_clcd/Debug/BrowseInfo/STM32/stm32f4xx_rcc.xcl	9d3bc60ea1e41b65
+118	218	6998764930000000	C:/Users/IoT21/Documents/iar/0307 sampleUart2_clcd/Debug/BrowseInfo/main.xcl	f891350136b7eea5
+124	227	6998764930000000	C:/Users/IoT21/Documents/iar/0307 sampleUart2_clcd/Debug/BrowseInfo/STM32/stm32f4xx_usart.xcl	bd460621fca7b63b
+131	233	6998764930000000	C:/Users/IoT21/Documents/iar/0307 sampleUart2_clcd/Debug/BrowseInfo/STM32/misc.xcl	4d7cf03da64aa72d
+137	310	6998764933668871	C:/Users/IoT21/Documents/iar/0307 sampleUart2_clcd/Debug/BrowseInfo/COMM/system_stm32f4xx.pbi	90473637f6b767a9
+227	340	6998764930000000	C:/Users/IoT21/Documents/iar/0307 sampleUart2_clcd/Debug/BrowseInfo/uart2.xcl	34defa6ba0f77e72
+311	348	6998764934047861	C:/Users/IoT21/Documents/iar/0307 sampleUart2_clcd/Debug/BrowseInfo/COMM/stm32f4xx_it.pbi	38a95b13ebab91e1
+234	374	6998764934317138	C:/Users/IoT21/Documents/iar/0307 sampleUart2_clcd/Debug/BrowseInfo/STM32/misc.pbi	accc6fd782ad5fa
+218	382	6998764934327113	C:/Users/IoT21/Documents/iar/0307 sampleUart2_clcd/Debug/BrowseInfo/STM32/stm32f4xx_gpio.pbi	4931f42956f71d38
+375	452	6998764935085074	C:/Users/IoT21/Documents/iar/0307 sampleUart2_clcd/Debug/BrowseInfo/sampleUart2_part0.pbi	b1f4221af7e0e810
+349	487	6998764935434140	C:/Users/IoT21/Documents/iar/0307 sampleUart2_clcd/Debug/BrowseInfo/STM32/stm32f4xx_usart.pbi	f4ed398766dd235c
+341	488	6998764935444113	C:/Users/IoT21/Documents/iar/0307 sampleUart2_clcd/Debug/BrowseInfo/main.pbi	c0532d840d644447
+453	582	6998764936391568	C:/Users/IoT21/Documents/iar/0307 sampleUart2_clcd/Debug/BrowseInfo/uart2.pbi	ca547bbe87547ba4
+382	618	6998764936750606	C:/Users/IoT21/Documents/iar/0307 sampleUart2_clcd/Debug/BrowseInfo/STM32/stm32f4xx_rcc.pbi	3e1e5be2a94bf92e
+583	656	6998764937129589	C:/Users/IoT21/Documents/iar/0307 sampleUart2_clcd/Debug/BrowseInfo/sampleUart2_part2.pbi	78232b7f20a1042c
+619	713	6998764937698066	C:/Users/IoT21/Documents/iar/0307 sampleUart2_clcd/Debug/BrowseInfo/sampleUart2_part1.pbi	d7ab4e4df08cbc43
+714	795	6998764938515868	C:/Users/IoT21/Documents/iar/0307 sampleUart2_clcd/Debug/BrowseInfo/sampleUart2.pbd	5959315865b2afec
+795	1463	6998764944969143	C:/Users/IoT21/Documents/iar/0307 sampleUart2_clcd/Debug/BrowseInfo/sampleUart2.pbw	fb1f63a44141086e
+1	137	7000662577707207	C:/Users/IoT21/Documents/iar/0307 sampleUart2_clcd/Debug/BrowseInfo/main.pbi	c0532d840d644447
+138	215	7000662578485122	C:/Users/IoT21/Documents/iar/0307 sampleUart2_clcd/Debug/BrowseInfo/sampleUart2_part2.pbi	78232b7f20a1042c
+216	304	7000662579380355	C:/Users/IoT21/Documents/iar/0307 sampleUart2_clcd/Debug/BrowseInfo/sampleUart2.pbd	5959315865b2afec
+305	897	7000662585088548	C:/Users/IoT21/Documents/iar/0307 sampleUart2_clcd/Debug/BrowseInfo/sampleUart2.pbw	fb1f63a44141086e
