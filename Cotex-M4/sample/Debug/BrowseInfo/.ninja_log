@@ -1,0 +1,16 @@
+# ninja log v5
+1	112	6994314830000000	C:/Users/IoT21/Documents/iar/sample/Debug/BrowseInfo/COMM/stm32f4xx_it.xcl	ae5a42174a711f13
+8	118	6994314830000000	C:/Users/IoT21/Documents/iar/sample/Debug/BrowseInfo/STM32/stm32f4xx_gpio.xcl	caddf03dc70419c0
+13	124	6994314830000000	C:/Users/IoT21/Documents/iar/sample/Debug/BrowseInfo/COMM/system_stm32f4xx.xcl	cb1f4e8311c08f45
+19	130	6994314830000000	C:/Users/IoT21/Documents/iar/sample/Debug/BrowseInfo/main.xcl	3d012fa233f33b5f
+112	145	6994314833389684	C:/Users/IoT21/Documents/iar/sample/Debug/BrowseInfo/COMM/stm32f4xx_it.pbi	c39d419a2442db7d
+146	230	6994314830000000	C:/Users/IoT21/Documents/iar/sample/Debug/BrowseInfo/STM32/stm32f4xx_rcc.xcl	7e0078fa8aae1f28
+119	246	6994314834396978	C:/Users/IoT21/Documents/iar/sample/Debug/BrowseInfo/STM32/stm32f4xx_gpio.pbi	2d63d62317e0070d
+124	252	6994314834456822	C:/Users/IoT21/Documents/iar/sample/Debug/BrowseInfo/COMM/system_stm32f4xx.pbi	20b4a713f62edfb7
+130	258	6994314834486739	C:/Users/IoT21/Documents/iar/sample/Debug/BrowseInfo/main.pbi	19344c4efeae4870
+253	302	6994314834955485	C:/Users/IoT21/Documents/iar/sample/Debug/BrowseInfo/sample_part0.pbi	53754ae0728303cd
+259	304	6994314834975441	C:/Users/IoT21/Documents/iar/sample/Debug/BrowseInfo/sample_part2.pbi	859e23ecb7427a30
+230	358	6994314835514370	C:/Users/IoT21/Documents/iar/sample/Debug/BrowseInfo/STM32/stm32f4xx_rcc.pbi	68f7ab86104ab8d3
+359	426	6994314836192829	C:/Users/IoT21/Documents/iar/sample/Debug/BrowseInfo/sample_part1.pbi	3f43ed1b31c94cc1
+426	500	6994314836940686	C:/Users/IoT21/Documents/iar/sample/Debug/BrowseInfo/sample.pbd	2c7a501f2e29ed93
+501	1133	6994314843051562	C:/Users/IoT21/Documents/iar/sample/Debug/BrowseInfo/sample.pbw	f6ee2cb41a32f3ac

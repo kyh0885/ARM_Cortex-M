@@ -1,0 +1,90 @@
+# ninja log v5
+1	158	6995209087860699	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Obj/main.o	61a7a6db2ebef8f8
+252	439	6995153715860713	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Obj/STM32/stm32f4xx_usart.o	afb5128e349854f8
+1	250	6995153713965783	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Obj/STM32/stm32f4xx_rcc.o	8c098354a373a484
+334	483	6995153716299541	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Obj/uart2.o	ffb898fb3e39ce45
+9	197	6995153713337474	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Obj/COMM/system_stm32f4xx.o	3342b4f785c1d71f
+0	30	6995148431949553	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Obj/CMSIS/startup_stm32f40_41xxx.o	8b316da82270b7d7
+6	142	6995148433016693	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Obj/COMM/stm32f4xx_it.o	dec5765b1e51b765
+22	180	6995153713277623	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Obj/STM32/misc.o	fb8801e208b5c361
+16	205	6995153713457143	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Obj/STM32/stm32f4xx_gpio.o	f7fce7153bade648
+160	221	6995209088495707	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Exe/sampleUart2.out	8b9812b2ced837c5
+224	234	6995209088684411	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Exe/sampleUart2.hex	600498c1c47e22ac
+182	333	6995153714803541	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Obj/STM32/stm32f4xx_exti.o	a7b155b14d0b824c
+206	362	6995153715092771	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Obj/STM32/stm32f4xx_syscfg.o	895bef4f1f4efb23
+3	160	6995209946643984	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Obj/main.o	61a7a6db2ebef8f8
+162	223	6995209947269343	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Exe/sampleUart2.out	8b9812b2ced837c5
+224	234	6995209947448863	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Exe/sampleUart2.hex	600498c1c47e22ac
+2	225	6995212310939907	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Obj/main.o	61a7a6db2ebef8f8
+226	287	6995212311572498	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Exe/sampleUart2.out	8b9812b2ced837c5
+288	298	6995212311742082	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Exe/sampleUart2.hex	600498c1c47e22ac
+2	225	6995217716641077	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Obj/main.o	61a7a6db2ebef8f8
+227	287	6995217717272865	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Exe/sampleUart2.out	8b9812b2ced837c5
+288	298	6995217717452351	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Exe/sampleUart2.hex	600498c1c47e22ac
+2	165	6995226315856072	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Obj/main.o	61a7a6db2ebef8f8
+166	229	6995226316492424	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Exe/sampleUart2.out	8b9812b2ced837c5
+231	242	6995226316697201	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Exe/sampleUart2.hex	600498c1c47e22ac
+1	228	6995229509811840	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Obj/main.o	61a7a6db2ebef8f8
+230	291	6995229510451488	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Exe/sampleUart2.out	8b9812b2ced837c5
+293	303	6995229510640970	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Exe/sampleUart2.hex	600498c1c47e22ac
+2	157	6995232939728025	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Obj/main.o	61a7a6db2ebef8f8
+159	220	6995232940353879	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Exe/sampleUart2.out	8b9812b2ced837c5
+221	231	6995232940523426	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Exe/sampleUart2.hex	600498c1c47e22ac
+2	221	6995237737012323	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Obj/main.o	61a7a6db2ebef8f8
+223	283	6995237737645180	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Exe/sampleUart2.out	8b9812b2ced837c5
+286	295	6995237737834311	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Exe/sampleUart2.hex	600498c1c47e22ac
+2	163	6995238718993650	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Obj/main.o	61a7a6db2ebef8f8
+165	224	6995238719612311	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Exe/sampleUart2.out	8b9812b2ced837c5
+226	235	6995238719781861	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Exe/sampleUart2.hex	600498c1c47e22ac
+2	226	6995240885558448	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Obj/main.o	61a7a6db2ebef8f8
+228	289	6995240886203342	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Exe/sampleUart2.out	8b9812b2ced837c5
+291	300	6995240886382862	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Exe/sampleUart2.hex	600498c1c47e22ac
+2	169	6995241735648257	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Obj/main.o	61a7a6db2ebef8f8
+172	234	6995241736291330	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Exe/sampleUart2.out	8b9812b2ced837c5
+236	245	6995241736469074	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Exe/sampleUart2.hex	600498c1c47e22ac
+1	222	6995244040446810	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Obj/main.o	61a7a6db2ebef8f8
+224	285	6995244041090408	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Exe/sampleUart2.out	8b9812b2ced837c5
+288	298	6995244041289804	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Exe/sampleUart2.hex	600498c1c47e22ac
+2	159	6995244286008150	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Obj/main.o	61a7a6db2ebef8f8
+160	222	6995244286629633	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Exe/sampleUart2.out	8b9812b2ced837c5
+223	233	6995244286809156	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Exe/sampleUart2.hex	600498c1c47e22ac
+2	160	6995245980712177	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Obj/main.o	61a7a6db2ebef8f8
+163	224	6995245981368736	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Exe/sampleUart2.out	8b9812b2ced837c5
+226	236	6995245981538283	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Exe/sampleUart2.hex	600498c1c47e22ac
+2	159	6995246958037463	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Obj/main.o	61a7a6db2ebef8f8
+161	221	6995246958660807	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Exe/sampleUart2.out	8b9812b2ced837c5
+223	232	6995246958830354	C:/Users/IoT21/Documents/iar/sampleUart2_dipSW - 복사본/Debug/Exe/sampleUart2.hex	600498c1c47e22ac
+1	43	6995256791612060	C:/Users/IoT21/Documents/iar/Switch_Interrupt_Uart/Debug/Obj/CMSIS/startup_stm32f40_41xxx.o	1137a395bafd2f2b
+8	209	6995256793277604	C:/Users/IoT21/Documents/iar/Switch_Interrupt_Uart/Debug/Obj/COMM/stm32f4xx_it.o	7b4876f2c194a2e2
+23	285	6995256794017433	C:/Users/IoT21/Documents/iar/Switch_Interrupt_Uart/Debug/Obj/uart2.o	c59dd01f7374e9fe
+16	305	6995256794077272	C:/Users/IoT21/Documents/iar/Switch_Interrupt_Uart/Debug/Obj/STM32/stm32f4xx_exti.o	27f37a1068b47a6c
+44	349	6995256794665691	C:/Users/IoT21/Documents/iar/Switch_Interrupt_Uart/Debug/Obj/STM32/misc.o	b02f74b51b7f21c3
+210	389	6995256795074605	C:/Users/IoT21/Documents/iar/Switch_Interrupt_Uart/Debug/Obj/COMM/system_stm32f4xx.o	f1d42b04003ceb6c
+286	462	6995256795802656	C:/Users/IoT21/Documents/iar/Switch_Interrupt_Uart/Debug/Obj/STM32/stm32f4xx_gpio.o	ad063650fe22a71b
+306	470	6995256795822598	C:/Users/IoT21/Documents/iar/Switch_Interrupt_Uart/Debug/Obj/STM32/stm32f4xx_syscfg.o	c1594b82ab7ad7f6
+351	558	6995256796760100	C:/Users/IoT21/Documents/iar/Switch_Interrupt_Uart/Debug/Obj/STM32/stm32f4xx_usart.o	422cd6c3973254ae
+390	629	6995256797458232	C:/Users/IoT21/Documents/iar/Switch_Interrupt_Uart/Debug/Obj/STM32/stm32f4xx_rcc.o	68ec9315a8fc759f
+464	632	6995256797498424	C:/Users/IoT21/Documents/iar/Switch_Interrupt_Uart/Debug/Obj/main.o	fd1203a3a554b8d4
+633	710	6995256798275374	C:/Users/IoT21/Documents/iar/Switch_Interrupt_Uart/Debug/Exe/sampleUart2.out	a259bf3685198eda
+712	726	6995256798509086	C:/Users/IoT21/Documents/iar/Switch_Interrupt_Uart/Debug/Exe/sampleUart2.hex	215afbbc5a0e7db5
+2	230	6995261403363307	C:/Users/IoT21/Documents/iar/Switch_Interrupt_Uart/Debug/Obj/main.o	fd1203a3a554b8d4
+233	302	6995261404081704	C:/Users/IoT21/Documents/iar/Switch_Interrupt_Uart/Debug/Exe/sampleUart2.out	a259bf3685198eda
+304	315	6995261404289637	C:/Users/IoT21/Documents/iar/Switch_Interrupt_Uart/Debug/Exe/sampleUart2.hex	215afbbc5a0e7db5
+2	167	6995262741861469	C:/Users/IoT21/Documents/iar/Switch_Interrupt_Uart/Debug/Obj/main.o	fd1203a3a554b8d4
+169	238	6995262742559148	C:/Users/IoT21/Documents/iar/Switch_Interrupt_Uart/Debug/Exe/sampleUart2.out	a259bf3685198eda
+239	251	6995262742769015	C:/Users/IoT21/Documents/iar/Switch_Interrupt_Uart/Debug/Exe/sampleUart2.hex	215afbbc5a0e7db5
+7	34	6995285405397005	C:/Users/IoT21/Documents/iar/LCD_Basic_Example/Debug/Obj/CMSIS/startup_stm32f40_41xxx.o	5cdfe8f84ece503a
+1	135	6995285406335084	C:/Users/IoT21/Documents/iar/LCD_Basic_Example/Debug/Obj/COMM/stm32f4xx_it.o	1d49b860787b1e90
+12	272	6995285407701392	C:/Users/IoT21/Documents/iar/LCD_Basic_Example/Debug/Obj/STM32/stm32f4xx_gpio.o	b2a9101cfa4e8fc1
+136	294	6995285407930815	C:/Users/IoT21/Documents/iar/LCD_Basic_Example/Debug/Obj/STM32/misc.o	f694735e48e8df26
+37	312	6995285408019995	C:/Users/IoT21/Documents/iar/LCD_Basic_Example/Debug/Obj/COMM/system_stm32f4xx.o	16fedb19a0ff2974
+18	355	6995285408518649	C:/Users/IoT21/Documents/iar/LCD_Basic_Example/Debug/Obj/STM32/stm32f4xx_rcc.o	1a1688d507bc5962
+273	436	6995285409356553	C:/Users/IoT21/Documents/iar/LCD_Basic_Example/Debug/Obj/STM32/stm32f4xx_exti.o	804d66f88df14912
+296	454	6995285409536579	C:/Users/IoT21/Documents/iar/LCD_Basic_Example/Debug/Obj/main.o	e225199d1463136d
+357	505	6995285410045220	C:/Users/IoT21/Documents/iar/LCD_Basic_Example/Debug/Obj/STM32/stm32f4xx_syscfg.o	4e126751111bef03
+313	516	6995285410144953	C:/Users/IoT21/Documents/iar/LCD_Basic_Example/Debug/Obj/STM32/stm32f4xx_usart.o	2811fa99f76f05
+518	582	6995285410821918	C:/Users/IoT21/Documents/iar/LCD_Basic_Example/Debug/Exe/sampleUart2.out	49a3e7507844bf91
+585	596	6995285411020889	C:/Users/IoT21/Documents/iar/LCD_Basic_Example/Debug/Exe/sampleUart2.hex	8838957fe803e4d2
+1	186	6995286297251160	C:/Users/IoT21/Documents/iar/LCD_Basic_Example/Debug/Obj/main.o	e225199d1463136d
+186	244	6995286297830486	C:/Users/IoT21/Documents/iar/LCD_Basic_Example/Debug/Exe/sampleUart2.out	49a3e7507844bf91
+245	255	6995286298009138	C:/Users/IoT21/Documents/iar/LCD_Basic_Example/Debug/Exe/sampleUart2.hex	8838957fe803e4d2

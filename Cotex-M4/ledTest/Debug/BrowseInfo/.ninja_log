@@ -1,0 +1,20 @@
+# ninja log v5
+7	109	6979589670000000	C:/Users/IoT21/Documents/iar/ledTest/Debug/BrowseInfo/COMM/system_stm32f4xx.xcl	6c75ea59749dde1b
+0	115	6979589670000000	C:/Users/IoT21/Documents/iar/ledTest/Debug/BrowseInfo/STM32/stm32f4xx_gpio.xcl	c8f262fd90526795
+12	120	6979589670000000	C:/Users/IoT21/Documents/iar/ledTest/Debug/BrowseInfo/COMM/stm32f4xx_it.xcl	fdea152a797fa925
+17	125	6979589670000000	C:/Users/IoT21/Documents/iar/ledTest/Debug/BrowseInfo/STM32/stm32f4xx_rcc.xcl	7facdeae2aed70f8
+120	151	6979589671377514	C:/Users/IoT21/Documents/iar/ledTest/Debug/BrowseInfo/COMM/stm32f4xx_it.pbi	856a53c36de6a31c
+110	192	6979589670000000	C:/Users/IoT21/Documents/iar/ledTest/Debug/BrowseInfo/main.xcl	54f782f12703fa2
+115	244	6979589672304360	C:/Users/IoT21/Documents/iar/ledTest/Debug/BrowseInfo/STM32/stm32f4xx_gpio.pbi	5ca6b2785cbb5c17
+125	257	6979589672443992	C:/Users/IoT21/Documents/iar/ledTest/Debug/BrowseInfo/STM32/stm32f4xx_rcc.pbi	5fd37fbdeade68b8
+151	274	6979589672603566	C:/Users/IoT21/Documents/iar/ledTest/Debug/BrowseInfo/COMM/system_stm32f4xx.pbi	effaf19616da3cd3
+192	311	6979589672972568	C:/Users/IoT21/Documents/iar/ledTest/Debug/BrowseInfo/main.pbi	2c52e94a9bf2ac8d
+274	319	6979589673062331	C:/Users/IoT21/Documents/iar/ledTest/Debug/BrowseInfo/ledTest_part0.pbi	ef87c3c122601135
+258	327	6979589673132147	C:/Users/IoT21/Documents/iar/ledTest/Debug/BrowseInfo/ledTest_part1.pbi	d38969664e53aaa5
+312	356	6979589673421371	C:/Users/IoT21/Documents/iar/ledTest/Debug/BrowseInfo/ledTest_part2.pbi	b51ce1c8da723524
+357	430	6979589674160061	C:/Users/IoT21/Documents/iar/ledTest/Debug/BrowseInfo/ledTest.pbd	b322e530b19ab0fa
+430	1065	6979589680293649	C:/Users/IoT21/Documents/iar/ledTest/Debug/BrowseInfo/ledTest.pbw	5b871cda5eee7185
+1	117	6979596638660679	C:/Users/IoT21/Documents/iar/ledTest/Debug/BrowseInfo/main.pbi	2c52e94a9bf2ac8d
+118	163	6979596639119312	C:/Users/IoT21/Documents/iar/ledTest/Debug/BrowseInfo/ledTest_part2.pbi	b51ce1c8da723524
+164	239	6979596639876772	C:/Users/IoT21/Documents/iar/ledTest/Debug/BrowseInfo/ledTest.pbd	b322e530b19ab0fa
+239	889	6979596646167619	C:/Users/IoT21/Documents/iar/ledTest/Debug/BrowseInfo/ledTest.pbw	5b871cda5eee7185

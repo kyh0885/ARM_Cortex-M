@@ -1,0 +1,190 @@
+# ninja log v5
+5	153	6999592981875088	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh/Debug/Obj/tim7_fnd.o	b4d1e7167f5b9ee4
+793	929	7000289375971590	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/Obj/uart4.o	b52a5564cfe703d9
+162	297	7000456961462128	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/STM32/misc.o	c399aa3b44d1647a
+172	390	7000201169660172	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/Obj/STM32/stm32f4xx_rcc.o	7c374c7b8e002b18
+310	501	7000201170753664	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/Obj/STM32/stm32f4xx_usart.o	7889d0b4792f2783
+129	288	7000289369440582	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/Obj/STM32/stm32f4xx_gpio.o	b191f193744a210b
+655	788	7000201173565498	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/Obj/tim10_motor.o	7e3018243f5c4c0d
+502	636	7000201172003368	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/Obj/key.o	e64c2c49c054dae5
+26	221	7000201167941828	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/Obj/STM32/stm32f4xx_adc.o	ce1971dee80aff15
+549	699	7000201172628230	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/Obj/uart2.o	2432577159dde974
+325	459	7000289371147981	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/Obj/adc1.o	71805b590c5cfad2
+600	737	7000289374054079	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/Obj/tim10_motor.o	974642aa012336f0
+1	22	7000201165911031	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/Obj/CMSIS/startup_stm32f40_41xxx.o	3845483aa8968ad8
+261	483	7000289371479259	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/Obj/STM32/stm32f4xx_rcc.o	ccce927ecdb14bf6
+4	56	7000201166224070	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/Obj/COMM/stm32f4xx_it.o	d598346261cd3181
+7	171	7000201167317636	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/Obj/COMM/system_stm32f4xx.o	bded1cc637dcf4ae
+398	697	7000289373628567	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/Obj/STM32/stm32f4xx_tim.o	e6a1a8d9f3d2525d
+58	194	7000201167629400	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/Obj/STM32/misc.o	110054d5a4089a65
+168	309	7000201168722907	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/Obj/STM32/stm32f4xx_exti.o	b4d02f48aa1674c0
+10	167	7000201167317636	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/Obj/STM32/stm32f4xx_gpio.o	adf4bbb572b481c8
+222	358	7000201169347747	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/Obj/STM32/stm32f4xx_syscfg.o	5260d12e083900d7
+1	221	7000207577013946	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/Obj/main.o	a96a519a62559c2d
+1	150	7000204779089678	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/Obj/lcd.o	a7c3bf1058c00426
+195	476	7000201170441246	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/Obj/STM32/stm32f4xx_tim.o	e740cd564209b3ca
+497	640	7000201172003368	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/Obj/led.o	ba84006cc0c31082
+289	478	7000289371449337	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/Obj/STM32/stm32f4xx_usart.o	9e8fe1f46434fa6a
+359	496	7000201170597454	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/Obj/adc1.o	cc996ef6179cd10e
+28	324	7000289369813198	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/Obj/STM32/stm32f4xx_adc.o	4ba5dbd57d1f51af
+467	602	7000456964517010	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/tim10_motor.o	b518726faf6cffec
+638	770	7000201173409289	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/Obj/tim1_counter.o	a5d96fcf2f45ce93
+1	174	7000390405313030	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/Obj/main.o	68c5f259e06ddb1
+642	779	7000201173565498	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/Obj/uart4.o	956209a4468a8d04
+223	300	7000207577794437	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/Exe/sampleUart2.out	cf8f02bb98257861
+303	311	7000207577950642	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/Exe/sampleUart2.hex	8fd94db5b29f3c42
+298	568	7000456964155887	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/STM32/stm32f4xx_tim.o	890fe64afc8131d1
+261	270	7000390406422688	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/Exe/sampleUart2.hex	a0193445c98f581
+2	147	7000205496629746	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v2/Debug/Obj/STM32/tim7_fnd.o	9f20537b9ecf3da5
+9	127	7000289367810483	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/Obj/COMM/stm32f4xx_it.o	6a29a77604b87a43
+4	51	7000456959012374	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/COMM/stm32f4xx_it.o	a04f7ea9267923c1
+1	27	7000289367012161	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/Obj/CMSIS/startup_stm32f40_41xxx.o	f89db7808dde85db
+11	254	7000289369144315	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/Obj/STM32/stm32f4xx_exti.o	156b85a9fc3a5b39
+480	632	7000289373002652	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/Obj/key.o	e2eaf8ebb369f5e2
+546	726	7000456965746761	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/main.o	fbda58c30f83421
+4	260	7000289369144315	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/Obj/COMM/system_stm32f4xx.o	ad6a1ec2342408df
+255	396	7000289370635543	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/Obj/STM32/misc.o	e6f4948fe5def32f
+8	242	7000250206660537	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/Obj/STM32/tim7_fnd.o	4b2c79ce74307fea
+699	846	7000289375145431	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/Obj/tim7_fnd.o	bef45a5f3c9ceb83
+462	599	7000289372632649	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/Obj/STM32/stm32f4xx_syscfg.o	5974d2d40ae8066b
+665	804	7000289374604653	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/Obj/tim4_counter.o	88c27ffded3d31c
+634	792	7000289374604653	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/Obj/lcd.o	61a27ca3221b4ee2
+485	630	7000456964790285	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/lcd.o	9fc11b9a9b10a626
+738	879	7000289375447366	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/Obj/uart2.o	d219acefcba2285f
+175	260	7000390406266457	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/Exe/sampleUart2.out	a891cc8b96b0923e
+2	17	7000456958709814	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/CMSIS/startup_stm32f40_41xxx.o	583b0389dbc7c42f
+53	213	7000456960622770	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/STM32/stm32f4xx_gpio.o	bcaac65e5ae43224
+7	156	7000456960046931	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/COMM/system_stm32f4xx.o	f42eaa4b8d3e82b7
+569	698	7000456965473481	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/uart4.o	f96729dc58807226
+9	235	7000456960827729	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/STM32/stm32f4xx_rcc.o	db18bb84f1feec20
+157	338	7000456961862291	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/STM32/stm32f4xx_adc.o	fa883916f3054220
+17	160	7000456960056694	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/STM32/stm32f4xx_exti.o	c7965ea7c2c6d51d
+215	350	7000456961969651	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/STM32/stm32f4xx_syscfg.o	7a974865a5d88474
+340	465	7000456963140853	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/tim4_counter.o	f064d0d05192ec69
+236	414	7000456962623566	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/STM32/stm32f4xx_usart.o	6470c230326bcc70
+416	545	7000456963941164	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/key.o	422dd23411329f77
+352	484	7000456963326293	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/adc1.o	6dca39e9c0ce323f
+699	837	7000456966859408	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/uart2.o	2df635440f6632d9
+603	757	7000456966059083	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/wifi.o	84843472aef73e5b
+631	771	7000456966195723	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/tim7_fnd.o	45e4f5ce3d7155f3
+839	915	7000456967611242	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Exe/sampleUart2.out	a0fea726590a996a
+916	926	7000456967815882	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Exe/sampleUart2.hex	cb02d7198e25fc73
+1	174	7000458837683866	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/main.o	fbda58c30f83421
+175	255	7000458838465250	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Exe/sampleUart2.out	a0fea726590a996a
+258	268	7000458838689446	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Exe/sampleUart2.hex	cb02d7198e25fc73
+1	233	7000459926944412	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/main.o	fbda58c30f83421
+234	312	7000459927715445	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Exe/sampleUart2.out	a0fea726590a996a
+315	324	7000459927930168	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Exe/sampleUart2.hex	cb02d7198e25fc73
+0	16	7000461761447584	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/CMSIS/startup_stm32f40_41xxx.o	583b0389dbc7c42f
+3	46	7000461761711109	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/COMM/stm32f4xx_it.o	a04f7ea9267923c1
+10	163	7000461762853022	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/COMM/system_stm32f4xx.o	f42eaa4b8d3e82b7
+17	176	7000461762970142	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/STM32/stm32f4xx_gpio.o	bcaac65e5ae43224
+49	229	7000461763516701	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/STM32/stm32f4xx_adc.o	fa883916f3054220
+7	234	7000461763555739	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/STM32/stm32f4xx_rcc.o	db18bb84f1feec20
+164	300	7000461764229180	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/STM32/stm32f4xx_exti.o	c7965ea7c2c6d51d
+178	313	7000461764297504	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/STM32/misc.o	c399aa3b44d1647a
+231	363	7000461764863578	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/tim4_counter.o	f064d0d05192ec69
+235	374	7000461764912380	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/STM32/stm32f4xx_syscfg.o	7a974865a5d88474
+314	442	7000461765654139	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/adc1.o	6dca39e9c0ce323f
+375	502	7000461766249494	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/tim10_motor.o	b518726faf6cffec
+364	539	7000461766610614	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/STM32/stm32f4xx_usart.o	6470c230326bcc70
+301	574	7000461766952218	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/STM32/stm32f4xx_tim.o	890fe64afc8131d1
+444	578	7000461766981495	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/key.o	422dd23411329f77
+503	682	7000461768045337	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/main.o	fbda58c30f83421
+541	697	7000461768191736	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/lcd.o	9fc11b9a9b10a626
+575	709	7000461768269824	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/uart4.o	f96729dc58807226
+580	740	7000461768621172	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/wifi.o	84843472aef73e5b
+683	823	7000461769460534	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/uart2.o	2df635440f6632d9
+699	837	7000461769597169	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/tim7_fnd.o	45e4f5ce3d7155f3
+839	920	7000461770397487	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Exe/sampleUart2.out	a0fea726590a996a
+921	932	7000461770612208	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Exe/sampleUart2.hex	cb02d7198e25fc73
+1	185	7000462931679213	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/main.o	fbda58c30f83421
+186	264	7000462932440617	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Exe/sampleUart2.out	a0fea726590a996a
+265	274	7000462932635238	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Exe/sampleUart2.hex	cb02d7198e25fc73
+1	228	7000463748769968	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/main.o	fbda58c30f83421
+230	310	7000463749560534	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Exe/sampleUart2.out	a0fea726590a996a
+312	322	7000463749785140	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Exe/sampleUart2.hex	cb02d7198e25fc73
+1	178	7000465030370421	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/main.o	fbda58c30f83421
+179	258	7000465031141460	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Exe/sampleUart2.out	a0fea726590a996a
+260	269	7000465031356180	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Exe/sampleUart2.hex	cb02d7198e25fc73
+1	15	7000465135933178	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/CMSIS/startup_stm32f40_41xxx.o	583b0389dbc7c42f
+3	45	7000465136186934	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/COMM/stm32f4xx_it.o	a04f7ea9267923c1
+8	157	7000465137280053	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/COMM/system_stm32f4xx.o	f42eaa4b8d3e82b7
+18	171	7000465137416697	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/STM32/stm32f4xx_gpio.o	bcaac65e5ae43224
+6	225	7000465137963251	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/STM32/stm32f4xx_rcc.o	db18bb84f1feec20
+46	229	7000465137982770	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/STM32/stm32f4xx_adc.o	fa883916f3054220
+158	295	7000465138675729	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/STM32/stm32f4xx_exti.o	c7965ea7c2c6d51d
+173	306	7000465138724530	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/STM32/misc.o	c399aa3b44d1647a
+226	361	7000465139329652	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/STM32/stm32f4xx_syscfg.o	7a974865a5d88474
+308	435	7000465140071410	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/adc1.o	6dca39e9c0ce323f
+296	466	7000465140373968	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/STM32/stm32f4xx_usart.o	6470c230326bcc70
+362	489	7000465140617974	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/tim4_counter.o	f064d0d05192ec69
+231	503	7000465140696049	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/STM32/stm32f4xx_tim.o	890fe64afc8131d1
+436	568	7000465141409218	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/key.o	422dd23411329f77
+467	607	7000465141798925	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/tim10_motor.o	b518726faf6cffec
+491	637	7000465142091723	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/lcd.o	9fc11b9a9b10a626
+506	686	7000465142569964	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/main.o	fbda58c30f83421
+571	711	7000465142833484	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/tim7_fnd.o	45e4f5ce3d7155f3
+610	751	7000465143223889	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/uart4.o	f96729dc58807226
+638	790	7000465143624042	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/wifi.o	84843472aef73e5b
+687	829	7000465144004688	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/uart2.o	2df635440f6632d9
+830	907	7000465144756200	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Exe/sampleUart2.out	a0fea726590a996a
+908	918	7000465144951402	C:/Users/KCCI/Documents/iar/sampleUart2_project_split_ksh_v5_wifi/Debug/Exe/sampleUart2.hex	cb02d7198e25fc73
+425	665	7000471213256599	C:/Users/IoT21/Documents/iar/0309 sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/CMSIS/startup_stm32f40_41xxx.o	93690ca7ee06a406
+214	892	7000471217481288	C:/Users/IoT21/Documents/iar/0309 sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/COMM/stm32f4xx_it.o	29e053d36caa5792
+1	1203	7000471220564711	C:/Users/IoT21/Documents/iar/0309 sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/COMM/system_stm32f4xx.o	1c0fc1d366c656c7
+451	1427	7000471220644499	C:/Users/IoT21/Documents/iar/0309 sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/STM32/stm32f4xx_exti.o	daf93df4705b350a
+666	1641	7000471221502850	C:/Users/IoT21/Documents/iar/0309 sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/STM32/stm32f4xx_rcc.o	42d6f76d599e4afe
+895	1864	7000471223287432	C:/Users/IoT21/Documents/iar/0309 sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/STM32/stm32f4xx_gpio.o	28c4eb69460de463
+1205	2181	7000471230354817	C:/Users/IoT21/Documents/iar/0309 sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/STM32/misc.o	9f4336f43498a642
+1430	2402	7000471230853413	C:/Users/IoT21/Documents/iar/0309 sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/STM32/stm32f4xx_adc.o	8a54eae9e7007106
+1645	2615	7000471230832889	C:/Users/IoT21/Documents/iar/0309 sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/STM32/stm32f4xx_usart.o	95c8fbeeaba37ad8
+1866	2840	7000471234117137	C:/Users/IoT21/Documents/iar/0309 sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/STM32/stm32f4xx_tim.o	64568e4ac47062ef
+2404	3158	7000471240116104	C:/Users/IoT21/Documents/iar/0309 sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/STM32/stm32f4xx_syscfg.o	a7924f1e48ec6860
+2183	3371	7000471240116104	C:/Users/IoT21/Documents/iar/0309 sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/adc1.o	23f261e4fd68f293
+2619	3590	7000471240175238	C:/Users/IoT21/Documents/iar/0309 sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/key.o	32f3c1ea4716a445
+2843	3849	7000471247032028	C:/Users/IoT21/Documents/iar/0309 sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/lcd.o	bc3bf4b221259d05
+3160	4118	7000471249713282	C:/Users/IoT21/Documents/iar/0309 sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/tim10_motor.o	38770ae7df2062da
+3372	4329	7000471249732550	C:/Users/IoT21/Documents/iar/0309 sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/tim4_counter.o	5055898577556dc2
+3852	4613	7000471254671470	C:/Users/IoT21/Documents/iar/0309 sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/tim7_fnd.o	df001b7519cad1a3
+3593	4834	7000471254751263	C:/Users/IoT21/Documents/iar/0309 sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/main.o	e222a85713627a26
+4119	4866	7000471257197101	C:/Users/IoT21/Documents/iar/0309 sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/uart4.o	99c0e9d98a72a941
+4331	4893	7000471257466977	C:/Users/IoT21/Documents/iar/0309 sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/uart2.o	fecaca8425f5f836
+4615	4988	7000471258414495	C:/Users/IoT21/Documents/iar/0309 sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/wifi.o	5607509bcbfd597e
+4990	5139	7000471259893710	C:/Users/IoT21/Documents/iar/0309 sampleUart2_project_split_ksh_v5_wifi/Debug/Exe/sampleUart2.out	c02d1cf275e53882
+5140	5163	7000471260238085	C:/Users/IoT21/Documents/iar/0309 sampleUart2_project_split_ksh_v5_wifi/Debug/Exe/sampleUart2.hex	bd2191ee4f4c2dab
+5	263	7000479050943264	C:/Users/IoT21/Documents/iar/0309 sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/wifi.o	5607509bcbfd597e
+2	275	7000479051052999	C:/Users/IoT21/Documents/iar/0309 sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/main.o	e222a85713627a26
+276	374	7000479052029731	C:/Users/IoT21/Documents/iar/0309 sampleUart2_project_split_ksh_v5_wifi/Debug/Exe/sampleUart2.out	c02d1cf275e53882
+377	390	7000479052282379	C:/Users/IoT21/Documents/iar/0309 sampleUart2_project_split_ksh_v5_wifi/Debug/Exe/sampleUart2.hex	bd2191ee4f4c2dab
+2	274	7000504075754819	C:/Users/IoT21/Documents/iar/0309 sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/main.o	e222a85713627a26
+2	197	7000504372862887	C:/Users/IoT21/Documents/iar/0309 sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/main.o	e222a85713627a26
+2	198	7000504514101821	C:/Users/IoT21/Documents/iar/0309 sampleUart2_project_split_ksh_v5_wifi/Debug/Obj/main.o	e222a85713627a26
+200	294	7000504515028629	C:/Users/IoT21/Documents/iar/0309 sampleUart2_project_split_ksh_v5_wifi/Debug/Exe/sampleUart2.out	c02d1cf275e53882
+296	308	7000504515264732	C:/Users/IoT21/Documents/iar/0309 sampleUart2_project_split_ksh_v5_wifi/Debug/Exe/sampleUart2.hex	bd2191ee4f4c2dab
+430	672	7001094406750559	C:/Users/IoT21/Documents/iar/sampleUart2_project_split_kyh_v5_wifi/Debug/Obj/CMSIS/startup_stm32f40_41xxx.o	d7ad800cbf0fa586
+1	897	7001094410960352	C:/Users/IoT21/Documents/iar/sampleUart2_project_split_kyh_v5_wifi/Debug/Obj/COMM/stm32f4xx_it.o	effcc55287d49def
+215	1207	7001094414038043	C:/Users/IoT21/Documents/iar/sampleUart2_project_split_kyh_v5_wifi/Debug/Obj/COMM/system_stm32f4xx.o	ba89a5fc41361076
+673	1428	7001094414397508	C:/Users/IoT21/Documents/iar/sampleUart2_project_split_kyh_v5_wifi/Debug/Obj/STM32/stm32f4xx_gpio.o	f2ad5295ba8e2297
+457	1644	7001094414835914	C:/Users/IoT21/Documents/iar/sampleUart2_project_split_kyh_v5_wifi/Debug/Obj/STM32/stm32f4xx_rcc.o	da9008f1c64e859a
+900	1869	7001094417048063	C:/Users/IoT21/Documents/iar/sampleUart2_project_split_kyh_v5_wifi/Debug/Obj/STM32/stm32f4xx_adc.o	fcc23851a4da8a21
+1209	2191	7001094423882335	C:/Users/IoT21/Documents/iar/sampleUart2_project_split_kyh_v5_wifi/Debug/Obj/STM32/misc.o	65ae147dac05b64b
+1431	2405	7001094423912262	C:/Users/IoT21/Documents/iar/sampleUart2_project_split_kyh_v5_wifi/Debug/Obj/STM32/stm32f4xx_exti.o	74faeafb713252d4
+1648	2622	7001094423922232	C:/Users/IoT21/Documents/iar/sampleUart2_project_split_kyh_v5_wifi/Debug/Obj/adc1.o	33f64bdc6ea2ad4f
+1872	2910	7001094431074465	C:/Users/IoT21/Documents/iar/sampleUart2_project_split_kyh_v5_wifi/Debug/Obj/STM32/stm32f4xx_usart.o	68e019c037abcafa
+2193	3162	7001094433585466	C:/Users/IoT21/Documents/iar/sampleUart2_project_split_kyh_v5_wifi/Debug/Obj/STM32/stm32f4xx_syscfg.o	fcd1c9df9c57dcef
+2625	3384	7001094433774959	C:/Users/IoT21/Documents/iar/sampleUart2_project_split_kyh_v5_wifi/Debug/Obj/tim10_motor.o	b11c3691d28cecdb
+2409	3600	7001094434931865	C:/Users/IoT21/Documents/iar/sampleUart2_project_split_kyh_v5_wifi/Debug/Obj/STM32/stm32f4xx_tim.o	674ad40a3aa6bacf
+2913	3901	7001094440970346	C:/Users/IoT21/Documents/iar/sampleUart2_project_split_kyh_v5_wifi/Debug/Obj/key.o	3cb7f55ad76eb438
+3387	4125	7001094441419147	C:/Users/IoT21/Documents/iar/sampleUart2_project_split_kyh_v5_wifi/Debug/Obj/lcd.o	41f65dd495cee8d6
+3604	4378	7001094445754310	C:/Users/IoT21/Documents/iar/sampleUart2_project_split_kyh_v5_wifi/Debug/Obj/uart2.o	1ab742182986498e
+3164	4601	7001094446054090	C:/Users/IoT21/Documents/iar/sampleUart2_project_split_kyh_v5_wifi/Debug/Obj/main.o	9ef26b7d94eb6ebb
+3904	4852	7001094450488742	C:/Users/IoT21/Documents/iar/sampleUart2_project_split_kyh_v5_wifi/Debug/Obj/tim4_counter.o	a5140e3520060c67
+4128	4914	7001094451116856	C:/Users/IoT21/Documents/iar/sampleUart2_project_split_kyh_v5_wifi/Debug/Obj/tim7_fnd.o	65d9eb4d8d51abc1
+4381	4948	7001094451456085	C:/Users/IoT21/Documents/iar/sampleUart2_project_split_kyh_v5_wifi/Debug/Obj/wifi.o	de755c49ddb8984c
+4604	4960	7001094451565212	C:/Users/IoT21/Documents/iar/sampleUart2_project_split_kyh_v5_wifi/Debug/Obj/uart4.o	12aaed6fe1fcbd6a
+4962	5106	7001094452990723	C:/Users/IoT21/Documents/iar/sampleUart2_project_split_kyh_v5_wifi/Debug/Exe/uart2_split_kyh_wifi.out	1898bc99cbbf5ecd
+5108	5127	7001094453302041	C:/Users/IoT21/Documents/iar/sampleUart2_project_split_kyh_v5_wifi/Debug/Exe/uart2_split_kyh_wifi.hex	345a9bf74f8240a4
+1	240	7001096375475395	C:/Users/IoT21/Documents/iar/sampleUart2_project_split_kyh_v5_wifi/Debug/Obj/tim7_fnd.o	65d9eb4d8d51abc1
+242	337	7001096376425430	C:/Users/IoT21/Documents/iar/sampleUart2_project_split_kyh_v5_wifi/Debug/Exe/uart2_split_kyh_wifi.out	1898bc99cbbf5ecd
+338	349	7001096376640215	C:/Users/IoT21/Documents/iar/sampleUart2_project_split_kyh_v5_wifi/Debug/Exe/uart2_split_kyh_wifi.hex	345a9bf74f8240a4

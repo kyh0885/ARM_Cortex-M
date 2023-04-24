@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\..\kcci_project\kcci_devices\kcci_project.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\uart2_split_kyh_wifi.ewp</path>
+    </project>
+    <batchBuild />
+</workspace>

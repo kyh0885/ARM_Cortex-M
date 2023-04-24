@@ -1,0 +1,57 @@
+#define CMD_SIZE 50
+#define ARR_CNT 5  
+void Serial4_Event()
+{
+  
+//  Serial2_Send_String(rx4Data);
+//  Serial2_Send_String("\r\n");
+
+  int i=0;
+  int num = 0;
+  char * pToken;
+  char * pArray[ARR_CNT]={0};
+  char recvBuf[CMD_SIZE]={0};
+  char sendBuf[CMD_SIZE]={0}; 
+  strcpy(recvBuf,rx4Data);
+  i=0;
+  rx4Flag = 0; // 다시 Rflag 를 0으로 놓는다.    
+//  Serial2_Send_String(recvBuf);
+//  Serial2_Send_String("\n\r");
+  printf("rx : %s\r\n",recvBuf);
+     
+  pToken = strtok(recvBuf,"[@]");
+
+  while(pToken != NULL)
+  {
+    pArray[i] =  pToken;
+    if(++i >= ARR_CNT)
+      break;
+    pToken = strtok(NULL,"[@]");
+  }
+       
+  if(!strcmp(pArray[1],"LED"))
+  {
+    if(pArray != NULL)              
+      num = atoi(pArray[3]);
+    else
+      num = 0;
+    if(!strcmp(pArray[2],"ON"))
+    {
+     GPIO_SetBits(GPIOC, 0x01 << num); 
+    }
+    else 
+    {
+      GPIO_ResetBits(GPIOC, 0x01 << num); 
+    }
+  } 
+  else if(!strncmp(pArray[1]," New conn",sizeof(" New conn")))
+  {
+      return;
+  }
+  else if(!strncmp(pArray[1]," Already log",sizeof(" Already log")))
+  {
+      return;
+  }    
+  sprintf(sendBuf,"[%s]%s@%s@%d\n",pArray[0],pArray[1],pArray[2],num);
+  Serial4_Send_String(sendBuf);
+}

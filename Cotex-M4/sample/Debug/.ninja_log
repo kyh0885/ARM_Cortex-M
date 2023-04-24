@@ -1,0 +1,9 @@
+# ninja log v5
+7	33	6994314808537300	C:/Users/IoT21/Documents/iar/sample/Debug/Obj/CMSIS/startup_stm32f40_41xxx.o	fd82c852c57099dc
+13	79	6994314808946205	C:/Users/IoT21/Documents/iar/sample/Debug/Obj/COMM/stm32f4xx_it.o	ab21c3ad7351f6d1
+1	166	6994314809803915	C:/Users/IoT21/Documents/iar/sample/Debug/Obj/COMM/system_stm32f4xx.o	23f1cf66408a2979
+36	184	6994314809983431	C:/Users/IoT21/Documents/iar/sample/Debug/Obj/main.o	f2d5c6b2c7cde927
+19	188	6994314810023326	C:/Users/IoT21/Documents/iar/sample/Debug/Obj/STM32/stm32f4xx_gpio.o	fa7c4a5a4f29f185
+80	303	6994314811150319	C:/Users/IoT21/Documents/iar/sample/Debug/Obj/STM32/stm32f4xx_rcc.o	638f400fddbab9db
+306	362	6994314811761364	C:/Users/IoT21/Documents/iar/sample/Debug/Exe/sample.out	2e9f009f066beec4
+364	374	6994314811946697	C:/Users/IoT21/Documents/iar/sample/Debug/Exe/sample.hex	4bc9bb7c880cb410
